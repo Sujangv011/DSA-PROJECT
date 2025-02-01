@@ -1,0 +1,2738 @@
+Time 0: Vehicle 102 entered Road 1.
+Time 0: Vehicle 102 left Road 1.
+Time 0: Road 1 is EMPTY.
+Time 0: Road 1 is EMPTY.
+Time 0: Road 1 is EMPTY.
+Time 0: Road 1 is EMPTY.
+Time 1: Vehicle 203 entered Road 1.
+Time 2: Vehicle 799 entered Road 2.
+Time 3: Vehicle 1636 entered Road 3.
+Time 4: Vehicle 1515 entered Road 3.
+Time 5: Vehicle 1366 entered Road 3.
+Time 6: Vehicle 793 entered Road 2.
+Time 7: Vehicle 114 entered Road 1.
+Time 8: Vehicle 462 entered Road 1.
+Time 9: Vehicle 1002 entered Road 2.
+Time 10: Vehicle 117 entered Road 1.
+Time 10: Vehicle 799 left Road 2.
+Time 10: Vehicle 793 left Road 2.
+Time 10: Vehicle 1002 left Road 2.
+Time 10: Road 2 is EMPTY.
+Time 10: Road 2 is EMPTY.
+Time 11: Vehicle 550 entered Road 2.
+Time 12: Vehicle 1758 entered Road 3.
+Time 13: Vehicle 71 entered Road 1.
+Time 14: Vehicle 1086 entered Road 2.
+Time 15: Vehicle 496 entered Road 2.
+Time 16: Vehicle 647 entered Road 2.
+Time 17: Vehicle 724 entered Road 2.
+Time 18: Vehicle 1664 entered Road 3.
+Time 19: Vehicle 994 entered Road 2.
+Time 20: Vehicle 3 entered Road 1.
+Time 20: Vehicle 1636 left Road 3.
+Time 20: Vehicle 1515 left Road 3.
+Time 20: Vehicle 1366 left Road 3.
+Time 20: Vehicle 1758 left Road 3.
+Time 20: Vehicle 1664 left Road 3.
+Time 21: Vehicle 59 entered Road 1.
+Time 22: Vehicle 653 entered Road 2.
+Time 23: Vehicle 1326 entered Road 3.
+Time 24: Vehicle 365 entered Road 1.
+Time 25: Vehicle 1445 entered Road 3.
+Time 26: Vehicle 85 entered Road 1.
+Time 27: Vehicle 719 entered Road 2.
+Time 28: Vehicle 1249 entered Road 3.
+Time 29: Vehicle 1536 entered Road 3.
+Time 30: Vehicle 1625 entered Road 3.
+Time 30: Vehicle 203 left Road 1.
+Time 30: Vehicle 114 left Road 1.
+Time 30: Vehicle 462 left Road 1.
+Time 30: Vehicle 117 left Road 1.
+Time 30: Vehicle 71 left Road 1.
+Time 31: Vehicle 1785 entered Road 3.
+Time 32: Vehicle 1589 entered Road 3.
+Time 33: Vehicle 1709 entered Road 3.
+Time 34: Vehicle 974 entered Road 2.
+Time 35: Vehicle 963 entered Road 2.
+Time 36: Vehicle 1540 entered Road 3.
+Time 37: Vehicle 1005 entered Road 2.
+Time 38: Vehicle 361 entered Road 1.
+Time 39: Vehicle 1751 entered Road 3.
+Time 40: Vehicle 498 entered Road 2.
+Time 40: Vehicle 550 left Road 2.
+Time 40: Vehicle 1086 left Road 2.
+Time 40: Vehicle 496 left Road 2.
+Time 40: Vehicle 647 left Road 2.
+Time 40: Vehicle 724 left Road 2.
+Time 41: Vehicle 1273 entered Road 3.
+Time 42: Vehicle 952 entered Road 2.
+Time 43: Vehicle 756 entered Road 2.
+Time 44: Vehicle 1683 entered Road 3.
+Time 45: Vehicle 1277 entered Road 3.
+Time 46: Vehicle 441 entered Road 1.
+Time 47: Vehicle 769 entered Road 2.
+Time 48: Vehicle 322 entered Road 1.
+Time 49: Vehicle 534 entered Road 2.
+Time 50: Vehicle 1749 entered Road 3.
+Time 50: Vehicle 1326 left Road 3.
+Time 50: Vehicle 1445 left Road 3.
+Time 50: Vehicle 1249 left Road 3.
+Time 50: Vehicle 1536 left Road 3.
+Time 50: Vehicle 1625 left Road 3.
+Time 51: Vehicle 97 entered Road 1.
+Time 52: Vehicle 246 entered Road 1.
+Time 53: Vehicle 1209 entered Road 3.
+Time 54: Vehicle 1568 entered Road 3.
+Time 55: Vehicle 1210 entered Road 3.
+Time 56: Vehicle 1390 entered Road 3.
+Time 57: Vehicle 1546 entered Road 3.
+Time 58: Vehicle 679 entered Road 2.
+Time 59: Vehicle 1796 entered Road 3.
+Time 60: Vehicle 1 entered Road 1.
+Time 60: Vehicle 3 left Road 1.
+Time 60: Vehicle 59 left Road 1.
+Time 60: Vehicle 365 left Road 1.
+Time 60: Vehicle 85 left Road 1.
+Time 60: Vehicle 361 left Road 1.
+Time 61: Vehicle 1142 entered Road 3.
+Time 62: Vehicle 1530 entered Road 3.
+Time 63: Vehicle 1645 entered Road 3.
+Time 64: Vehicle 1551 entered Road 3.
+Time 65: Vehicle 736 entered Road 2.
+Time 66: Vehicle 1665 entered Road 3.
+Time 67: Vehicle 1290 entered Road 3.
+Time 68: Vehicle 522 entered Road 2.
+Time 69: Vehicle 70 entered Road 1.
+Time 70: Vehicle 366 entered Road 1.
+Time 70: Vehicle 994 left Road 2.
+Time 70: Vehicle 653 left Road 2.
+Time 70: Vehicle 719 left Road 2.
+Time 70: Vehicle 974 left Road 2.
+Time 70: Vehicle 963 left Road 2.
+Time 71: Vehicle 881 entered Road 2.
+Time 72: Vehicle 1186 entered Road 3.
+Time 73: Vehicle 1808 entered Road 3.
+Time 74: Vehicle 864 entered Road 2.
+Time 75: Vehicle 1143 entered Road 3.
+Time 76: Vehicle 1452 entered Road 3.
+Time 77: Vehicle 765 entered Road 2.
+Time 78: Vehicle 1240 entered Road 3.
+Time 79: Vehicle 195 entered Road 1.
+Time 80: Vehicle 1545 entered Road 3.
+Time 80: Vehicle 1785 left Road 3.
+Time 80: Vehicle 1589 left Road 3.
+Time 80: Vehicle 1709 left Road 3.
+Time 80: Vehicle 1540 left Road 3.
+Time 80: Vehicle 1751 left Road 3.
+Time 81: Vehicle 621 entered Road 2.
+Time 82: Vehicle 263 entered Road 1.
+Time 83: Vehicle 1300 entered Road 3.
+Time 84: Vehicle 228 entered Road 1.
+Time 85: Vehicle 599 entered Road 2.
+Time 86: Vehicle 650 entered Road 2.
+Time 87: Vehicle 122 entered Road 1.
+Time 88: Vehicle 627 entered Road 2.
+Time 89: Vehicle 32 entered Road 1.
+Time 90: Vehicle 521 entered Road 2.
+Time 90: Vehicle 441 left Road 1.
+Time 90: Vehicle 322 left Road 1.
+Time 90: Vehicle 97 left Road 1.
+Time 90: Vehicle 246 left Road 1.
+Time 90: Vehicle 1 left Road 1.
+Time 91: Vehicle 884 entered Road 2.
+Time 92: Vehicle 503 entered Road 2.
+Time 93: Vehicle 91 entered Road 1.
+Time 94: Vehicle 1573 entered Road 3.
+Time 95: Vehicle 714 entered Road 2.
+Time 96: Vehicle 352 entered Road 1.
+Time 97: Vehicle 453 entered Road 1.
+Time 98: Vehicle 1786 entered Road 3.
+Time 99: Vehicle 331 entered Road 1.
+Time 100: Vehicle 1019 entered Road 2.
+Time 100: Vehicle 1005 left Road 2.
+Time 100: Vehicle 498 left Road 2.
+Time 100: Vehicle 952 left Road 2.
+Time 100: Vehicle 756 left Road 2.
+Time 100: Vehicle 769 left Road 2.
+Time 101: Vehicle 1655 entered Road 3.
+Time 102: Vehicle 215 entered Road 1.
+Time 103: Vehicle 398 entered Road 1.
+Time 104: Vehicle 556 entered Road 2.
+Time 105: Vehicle 1784 entered Road 3.
+Time 106: Vehicle 1081 entered Road 2.
+Time 107: Vehicle 772 entered Road 2.
+Time 108: Vehicle 113 entered Road 1.
+Time 109: Vehicle 1339 entered Road 3.
+Time 110: Vehicle 1793 entered Road 3.
+Time 110: Vehicle 1273 left Road 3.
+Time 110: Vehicle 1683 left Road 3.
+Time 110: Vehicle 1277 left Road 3.
+Time 110: Vehicle 1749 left Road 3.
+Time 110: Vehicle 1209 left Road 3.
+Time 111: Vehicle 751 entered Road 2.
+Time 112: Vehicle 448 entered Road 1.
+Time 113: Vehicle 572 entered Road 2.
+Time 114: Vehicle 1742 entered Road 3.
+Time 115: Vehicle 1304 entered Road 3.
+Time 116: Vehicle 1754 entered Road 3.
+Time 117: Vehicle 861 entered Road 2.
+Time 118: Vehicle 691 entered Road 2.
+Time 119: Vehicle 1674 entered Road 3.
+Time 120: Vehicle 1658 entered Road 3.
+Time 120: Vehicle 70 left Road 1.
+Time 120: Vehicle 366 left Road 1.
+Time 120: Vehicle 195 left Road 1.
+Time 120: Vehicle 263 left Road 1.
+Time 120: Vehicle 228 left Road 1.
+Time 121: Vehicle 727 entered Road 2.
+Time 122: Vehicle 851 entered Road 2.
+Time 123: Vehicle 171 entered Road 1.
+Time 124: Vehicle 582 entered Road 2.
+Time 125: Vehicle 38 entered Road 1.
+Time 126: Vehicle 1679 entered Road 3.
+Time 127: Vehicle 1462 entered Road 3.
+Time 128: Vehicle 563 entered Road 2.
+Time 129: Vehicle 617 entered Road 2.
+Time 130: Vehicle 1694 entered Road 3.
+Time 130: Vehicle 534 left Road 2.
+Time 130: Vehicle 679 left Road 2.
+Time 130: Vehicle 736 left Road 2.
+Time 130: Vehicle 522 left Road 2.
+Time 130: Vehicle 881 left Road 2.
+Time 131: Vehicle 1270 entered Road 3.
+Time 132: Vehicle 298 entered Road 1.
+Time 133: Vehicle 1278 entered Road 3.
+Time 134: Vehicle 44 entered Road 1.
+Time 135: Vehicle 20 entered Road 1.
+Time 136: Vehicle 585 entered Road 2.
+Time 137: Vehicle 891 entered Road 2.
+Time 138: Vehicle 570 entered Road 2.
+Time 139: Vehicle 1412 entered Road 3.
+Time 140: Vehicle 1714 entered Road 3.
+Time 140: Vehicle 1568 left Road 3.
+Time 140: Vehicle 1210 left Road 3.
+Time 140: Vehicle 1390 left Road 3.
+Time 140: Vehicle 1546 left Road 3.
+Time 140: Vehicle 1796 left Road 3.
+Time 141: Vehicle 1558 entered Road 3.
+Time 142: Vehicle 386 entered Road 1.
+Time 143: Vehicle 382 entered Road 1.
+Time 144: Vehicle 631 entered Road 2.
+Time 145: Vehicle 1615 entered Road 3.
+Time 146: Vehicle 1708 entered Road 3.
+Time 147: Vehicle 1095 entered Road 2.
+Time 148: Vehicle 1575 entered Road 3.
+Time 149: Vehicle 1295 entered Road 3.
+Time 150: Vehicle 1197 entered Road 3.
+Time 150: Vehicle 122 left Road 1.
+Time 150: Vehicle 32 left Road 1.
+Time 150: Vehicle 91 left Road 1.
+Time 150: Vehicle 352 left Road 1.
+Time 150: Vehicle 453 left Road 1.
+Time 151: Vehicle 258 entered Road 1.
+Time 152: Vehicle 1126 entered Road 3.
+Time 153: Vehicle 86 entered Road 1.
+Time 154: Vehicle 1465 entered Road 3.
+Time 155: Vehicle 1130 entered Road 3.
+Time 156: Vehicle 1015 entered Road 2.
+Time 157: Vehicle 787 entered Road 2.
+Time 158: Vehicle 760 entered Road 2.
+Time 159: Vehicle 1662 entered Road 3.
+Time 160: Vehicle 29 entered Road 1.
+Time 160: Vehicle 864 left Road 2.
+Time 160: Vehicle 765 left Road 2.
+Time 160: Vehicle 621 left Road 2.
+Time 160: Vehicle 599 left Road 2.
+Time 160: Vehicle 650 left Road 2.
+Time 161: Vehicle 1040 entered Road 2.
+Time 162: Vehicle 1819 entered Road 3.
+Time 163: Vehicle 1271 entered Road 3.
+Time 164: Vehicle 557 entered Road 2.
+Time 165: Vehicle 132 entered Road 1.
+Time 166: Vehicle 888 entered Road 2.
+Time 167: Vehicle 9 entered Road 1.
+Time 168: Vehicle 127 entered Road 1.
+Time 169: Vehicle 1382 entered Road 3.
+Time 170: Vehicle 972 entered Road 2.
+Time 170: Vehicle 1142 left Road 3.
+Time 170: Vehicle 1530 left Road 3.
+Time 170: Vehicle 1645 left Road 3.
+Time 170: Vehicle 1551 left Road 3.
+Time 170: Vehicle 1665 left Road 3.
+Time 171: Vehicle 1464 entered Road 3.
+Time 172: Vehicle 224 entered Road 1.
+Time 173: Vehicle 671 entered Road 2.
+Time 174: Vehicle 384 entered Road 1.
+Time 175: Vehicle 711 entered Road 2.
+Time 176: Vehicle 1116 entered Road 3.
+Time 177: Vehicle 1442 entered Road 3.
+Time 178: Vehicle 213 entered Road 1.
+Time 179: Vehicle 1559 entered Road 3.
+Time 180: Vehicle 1605 entered Road 3.
+Time 180: Vehicle 331 left Road 1.
+Time 180: Vehicle 215 left Road 1.
+Time 180: Vehicle 398 left Road 1.
+Time 180: Vehicle 113 left Road 1.
+Time 180: Vehicle 448 left Road 1.
+Time 181: Vehicle 470 entered Road 1.
+Time 182: Vehicle 805 entered Road 2.
+Time 183: Vehicle 1303 entered Road 3.
+Time 184: Vehicle 646 entered Road 2.
+Time 185: Vehicle 1723 entered Road 3.
+Time 186: Vehicle 1157 entered Road 3.
+Time 187: Vehicle 1411 entered Road 3.
+Time 188: Vehicle 1048 entered Road 2.
+Time 189: Vehicle 1554 entered Road 3.
+Time 190: Vehicle 892 entered Road 2.
+Time 190: Vehicle 627 left Road 2.
+Time 190: Vehicle 521 left Road 2.
+Time 190: Vehicle 884 left Road 2.
+Time 190: Vehicle 503 left Road 2.
+Time 190: Vehicle 714 left Road 2.
+Time 191: Vehicle 300 entered Road 1.
+Time 192: Vehicle 183 entered Road 1.
+Time 193: Vehicle 788 entered Road 2.
+Time 194: Vehicle 916 entered Road 2.
+Time 195: Vehicle 1381 entered Road 3.
+Time 196: Vehicle 834 entered Road 2.
+Time 197: Vehicle 1637 entered Road 3.
+Time 198: Vehicle 172 entered Road 1.
+Time 199: Vehicle 1044 entered Road 2.
+Time 200: Vehicle 199 entered Road 1.
+Time 200: Vehicle 1290 left Road 3.
+Time 200: Vehicle 1186 left Road 3.
+Time 200: Vehicle 1808 left Road 3.
+Time 200: Vehicle 1143 left Road 3.
+Time 200: Vehicle 1452 left Road 3.
+Time 201: Vehicle 1031 entered Road 2.
+Time 202: Vehicle 1550 entered Road 3.
+Time 203: Vehicle 17 entered Road 1.
+Time 204: Vehicle 1794 entered Road 3.
+Time 205: Vehicle 752 entered Road 2.
+Time 206: Vehicle 205 entered Road 1.
+Time 207: Vehicle 538 entered Road 2.
+Time 208: Vehicle 1816 entered Road 3.
+Time 209: Vehicle 1482 entered Road 3.
+Time 210: Vehicle 965 entered Road 2.
+Time 210: Vehicle 171 left Road 1.
+Time 210: Vehicle 38 left Road 1.
+Time 210: Vehicle 298 left Road 1.
+Time 210: Vehicle 44 left Road 1.
+Time 210: Vehicle 20 left Road 1.
+Time 211: Vehicle 235 entered Road 1.
+Time 212: Vehicle 1235 entered Road 3.
+Time 213: Vehicle 543 entered Road 2.
+Time 214: Vehicle 1217 entered Road 3.
+Time 215: Vehicle 357 entered Road 1.
+Time 216: Vehicle 176 entered Road 1.
+Time 217: Vehicle 1351 entered Road 3.
+Time 218: Vehicle 684 entered Road 2.
+Time 219: Vehicle 1460 entered Road 3.
+Time 220: Vehicle 1521 entered Road 3.
+Time 220: Vehicle 1019 left Road 2.
+Time 220: Vehicle 556 left Road 2.
+Time 220: Vehicle 1081 left Road 2.
+Time 220: Vehicle 772 left Road 2.
+Time 220: Vehicle 751 left Road 2.
+Time 221: Vehicle 666 entered Road 2.
+Time 222: Vehicle 1131 entered Road 3.
+Time 223: Vehicle 244 entered Road 1.
+Time 224: Vehicle 1254 entered Road 3.
+Time 225: Vehicle 1744 entered Road 3.
+Time 226: Vehicle 1745 entered Road 3.
+Time 227: Vehicle 1511 entered Road 3.
+Time 228: Vehicle 153 entered Road 1.
+Time 229: Vehicle 992 entered Road 2.
+Time 230: Vehicle 436 entered Road 1.
+Time 230: Vehicle 1240 left Road 3.
+Time 230: Vehicle 1545 left Road 3.
+Time 230: Vehicle 1300 left Road 3.
+Time 230: Vehicle 1573 left Road 3.
+Time 230: Vehicle 1786 left Road 3.
+Time 231: Vehicle 1453 entered Road 3.
+Time 232: Vehicle 1350 entered Road 3.
+Time 233: Vehicle 1433 entered Road 3.
+Time 234: Vehicle 126 entered Road 1.
+Time 235: Vehicle 253 entered Road 1.
+Time 236: Vehicle 1424 entered Road 3.
+Time 237: Vehicle 103 entered Road 1.
+Time 238: Vehicle 1238 entered Road 3.
+Time 239: Vehicle 196 entered Road 1.
+Time 240: Vehicle 867 entered Road 2.
+Time 240: Vehicle 386 left Road 1.
+Time 240: Vehicle 382 left Road 1.
+Time 240: Vehicle 258 left Road 1.
+Time 240: Vehicle 86 left Road 1.
+Time 240: Vehicle 29 left Road 1.
+Time 241: Vehicle 1123 entered Road 3.
+Time 242: Vehicle 1416 entered Road 3.
+Time 243: Vehicle 1206 entered Road 3.
+Time 244: Vehicle 1707 entered Road 3.
+Time 245: Vehicle 482 entered Road 1.
+Time 246: Vehicle 813 entered Road 2.
+Time 247: Vehicle 1688 entered Road 3.
+Time 248: Vehicle 304 entered Road 1.
+Time 249: Vehicle 458 entered Road 1.
+Time 250: Vehicle 1312 entered Road 3.
+Time 250: Vehicle 572 left Road 2.
+Time 250: Vehicle 861 left Road 2.
+Time 250: Vehicle 691 left Road 2.
+Time 250: Vehicle 727 left Road 2.
+Time 250: Vehicle 851 left Road 2.
+Time 251: Vehicle 335 entered Road 1.
+Time 252: Vehicle 430 entered Road 1.
+Time 253: Vehicle 61 entered Road 1.
+Time 254: Vehicle 975 entered Road 2.
+Time 255: Vehicle 857 entered Road 2.
+Time 256: Vehicle 912 entered Road 2.
+Time 257: Vehicle 1654 entered Road 3.
+Time 258: Vehicle 664 entered Road 2.
+Time 259: Vehicle 1691 entered Road 3.
+Time 260: Vehicle 886 entered Road 2.
+Time 260: Vehicle 1655 left Road 3.
+Time 260: Vehicle 1784 left Road 3.
+Time 260: Vehicle 1339 left Road 3.
+Time 260: Vehicle 1793 left Road 3.
+Time 260: Vehicle 1742 left Road 3.
+Time 261: Vehicle 964 entered Road 2.
+Time 262: Vehicle 1153 entered Road 3.
+Time 263: Vehicle 1431 entered Road 3.
+Time 264: Vehicle 1525 entered Road 3.
+Time 265: Vehicle 281 entered Road 1.
+Time 266: Vehicle 10 entered Road 1.
+Time 267: Vehicle 722 entered Road 2.
+Time 268: Vehicle 1491 entered Road 3.
+Time 269: Vehicle 628 entered Road 2.
+Time 270: Vehicle 1110 entered Road 3.
+Time 270: Vehicle 132 left Road 1.
+Time 270: Vehicle 9 left Road 1.
+Time 270: Vehicle 127 left Road 1.
+Time 270: Vehicle 224 left Road 1.
+Time 270: Vehicle 384 left Road 1.
+Time 271: Vehicle 518 entered Road 2.
+Time 272: Vehicle 358 entered Road 1.
+Time 273: Vehicle 541 entered Road 2.
+Time 274: Vehicle 923 entered Road 2.
+Time 275: Vehicle 644 entered Road 2.
+Time 276: Vehicle 1021 entered Road 2.
+Time 277: Vehicle 1149 entered Road 3.
+Time 278: Vehicle 1245 entered Road 3.
+Time 279: Vehicle 492 entered Road 1.
+Time 280: Vehicle 260 entered Road 1.
+Time 280: Vehicle 582 left Road 2.
+Time 280: Vehicle 563 left Road 2.
+Time 280: Vehicle 617 left Road 2.
+Time 280: Vehicle 585 left Road 2.
+Time 280: Vehicle 891 left Road 2.
+Time 281: Vehicle 1420 entered Road 3.
+Time 282: Vehicle 1582 entered Road 3.
+Time 283: Vehicle 1305 entered Road 3.
+Time 284: Vehicle 655 entered Road 2.
+Time 285: Vehicle 1297 entered Road 3.
+Time 286: Vehicle 27 entered Road 1.
+Time 287: Vehicle 507 entered Road 2.
+Time 288: Vehicle 1472 entered Road 3.
+Time 289: Vehicle 1309 entered Road 3.
+Time 290: Vehicle 1104 entered Road 2.
+Time 290: Vehicle 1304 left Road 3.
+Time 290: Vehicle 1754 left Road 3.
+Time 290: Vehicle 1674 left Road 3.
+Time 290: Vehicle 1658 left Road 3.
+Time 290: Vehicle 1679 left Road 3.
+Time 291: Vehicle 185 entered Road 1.
+Time 292: Vehicle 1508 entered Road 3.
+Time 293: Vehicle 1520 entered Road 3.
+Time 294: Vehicle 464 entered Road 1.
+Time 295: Vehicle 1818 entered Road 3.
+Time 296: Vehicle 1468 entered Road 3.
+Time 297: Vehicle 944 entered Road 2.
+Time 298: Vehicle 1091 entered Road 2.
+Time 299: Vehicle 1367 entered Road 3.
+Time 300: Vehicle 818 entered Road 2.
+Time 300: Vehicle 213 left Road 1.
+Time 300: Vehicle 470 left Road 1.
+Time 300: Vehicle 300 left Road 1.
+Time 300: Vehicle 183 left Road 1.
+Time 300: Vehicle 172 left Road 1.
+Time 301: Vehicle 356 entered Road 1.
+Time 302: Vehicle 1668 entered Road 3.
+Time 303: Vehicle 404 entered Road 1.
+Time 304: Vehicle 151 entered Road 1.
+Time 305: Vehicle 405 entered Road 1.
+Time 306: Vehicle 415 entered Road 1.
+Time 307: Vehicle 531 entered Road 2.
+Time 308: Vehicle 1627 entered Road 3.
+Time 309: Vehicle 949 entered Road 2.
+Time 310: Vehicle 207 entered Road 1.
+Time 310: Vehicle 570 left Road 2.
+Time 310: Vehicle 631 left Road 2.
+Time 310: Vehicle 1095 left Road 2.
+Time 310: Vehicle 1015 left Road 2.
+Time 310: Vehicle 787 left Road 2.
+Time 311: Vehicle 1552 entered Road 3.
+Time 312: Vehicle 282 entered Road 1.
+Time 313: Vehicle 330 entered Road 1.
+Time 314: Vehicle 234 entered Road 1.
+Time 315: Vehicle 845 entered Road 2.
+Time 316: Vehicle 713 entered Road 2.
+Time 317: Vehicle 402 entered Road 1.
+Time 318: Vehicle 167 entered Road 1.
+Time 319: Vehicle 374 entered Road 1.
+Time 320: Vehicle 1035 entered Road 2.
+Time 320: Vehicle 1462 left Road 3.
+Time 320: Vehicle 1694 left Road 3.
+Time 320: Vehicle 1270 left Road 3.
+Time 320: Vehicle 1278 left Road 3.
+Time 320: Vehicle 1412 left Road 3.
+Time 321: Vehicle 1456 entered Road 3.
+Time 322: Vehicle 1079 entered Road 2.
+Time 323: Vehicle 1223 entered Road 3.
+Time 324: Vehicle 269 entered Road 1.
+Time 325: Vehicle 351 entered Road 1.
+Time 326: Vehicle 1158 entered Road 3.
+Time 327: Vehicle 514 entered Road 2.
+Time 328: Vehicle 739 entered Road 2.
+Time 329: Vehicle 1765 entered Road 3.
+Time 330: Vehicle 62 entered Road 1.
+Time 330: Vehicle 199 left Road 1.
+Time 330: Vehicle 17 left Road 1.
+Time 330: Vehicle 205 left Road 1.
+Time 330: Vehicle 235 left Road 1.
+Time 330: Vehicle 357 left Road 1.
+Time 331: Vehicle 920 entered Road 2.
+Time 332: Vehicle 1080 entered Road 2.
+Time 333: Vehicle 247 entered Road 1.
+Time 334: Vehicle 418 entered Road 1.
+Time 335: Vehicle 1204 entered Road 3.
+Time 336: Vehicle 1252 entered Road 3.
+Time 337: Vehicle 1578 entered Road 3.
+Time 338: Vehicle 267 entered Road 1.
+Time 339: Vehicle 25 entered Road 1.
+Time 340: Vehicle 373 entered Road 1.
+Time 340: Vehicle 760 left Road 2.
+Time 340: Vehicle 1040 left Road 2.
+Time 340: Vehicle 557 left Road 2.
+Time 340: Vehicle 888 left Road 2.
+Time 340: Vehicle 972 left Road 2.
+Time 341: Vehicle 890 entered Road 2.
+Time 342: Vehicle 935 entered Road 2.
+Time 343: Vehicle 1310 entered Road 3.
+Time 344: Vehicle 379 entered Road 1.
+Time 345: Vehicle 676 entered Road 2.
+Time 346: Vehicle 677 entered Road 2.
+Time 347: Vehicle 506 entered Road 2.
+Time 348: Vehicle 1241 entered Road 3.
+Time 349: Vehicle 608 entered Road 2.
+Time 350: Vehicle 1405 entered Road 3.
+Time 350: Vehicle 1714 left Road 3.
+Time 350: Vehicle 1558 left Road 3.
+Time 350: Vehicle 1615 left Road 3.
+Time 350: Vehicle 1708 left Road 3.
+Time 350: Vehicle 1575 left Road 3.
+Time 351: Vehicle 1074 entered Road 2.
+Time 352: Vehicle 1741 entered Road 3.
+Time 353: Vehicle 328 entered Road 1.
+Time 354: Vehicle 1107 entered Road 3.
+Time 355: Vehicle 1174 entered Road 3.
+Time 356: Vehicle 1434 entered Road 3.
+Time 357: Vehicle 1738 entered Road 3.
+Time 358: Vehicle 1308 entered Road 3.
+Time 359: Vehicle 1348 entered Road 3.
+Time 360: Vehicle 820 entered Road 2.
+Time 360: Vehicle 176 left Road 1.
+Time 360: Vehicle 244 left Road 1.
+Time 360: Vehicle 153 left Road 1.
+Time 360: Vehicle 436 left Road 1.
+Time 360: Vehicle 126 left Road 1.
+Time 361: Vehicle 670 entered Road 2.
+Time 362: Vehicle 1798 entered Road 3.
+Time 363: Vehicle 1610 entered Road 3.
+Time 364: Vehicle 761 entered Road 2.
+Time 365: Vehicle 816 entered Road 2.
+Time 366: Vehicle 1009 entered Road 2.
+Time 367: Vehicle 1812 entered Road 3.
+Time 368: Vehicle 1108 entered Road 3.
+Time 369: Vehicle 353 entered Road 1.
+Time 370: Vehicle 1199 entered Road 3.
+Time 370: Vehicle 671 left Road 2.
+Time 370: Vehicle 711 left Road 2.
+Time 370: Vehicle 805 left Road 2.
+Time 370: Vehicle 646 left Road 2.
+Time 370: Vehicle 1048 left Road 2.
+Time 371: Vehicle 1221 entered Road 3.
+Time 372: Vehicle 425 entered Road 1.
+Time 373: Vehicle 1237 entered Road 3.
+Time 374: Vehicle 1653 entered Road 3.
+Time 375: Vehicle 1789 entered Road 3.
+Time 376: Vehicle 338 entered Road 1.
+Time 377: Vehicle 1004 entered Road 2.
+Time 378: Vehicle 1500 entered Road 3.
+Time 379: Vehicle 532 entered Road 2.
+Time 380: Vehicle 1259 entered Road 3.
+Time 380: Vehicle 1295 left Road 3.
+Time 380: Vehicle 1197 left Road 3.
+Time 380: Vehicle 1126 left Road 3.
+Time 380: Vehicle 1465 left Road 3.
+Time 380: Vehicle 1130 left Road 3.
+Time 381: Vehicle 261 entered Road 1.
+Time 382: Vehicle 1089 entered Road 2.
+Time 383: Vehicle 1333 entered Road 3.
+Time 384: Vehicle 1335 entered Road 3.
+Time 385: Vehicle 694 entered Road 2.
+Time 386: Vehicle 227 entered Road 1.
+Time 387: Vehicle 1384 entered Road 3.
+Time 388: Vehicle 1481 entered Road 3.
+Time 389: Vehicle 1502 entered Road 3.
+Time 390: Vehicle 264 entered Road 1.
+Time 390: Vehicle 253 left Road 1.
+Time 390: Vehicle 103 left Road 1.
+Time 390: Vehicle 196 left Road 1.
+Time 390: Vehicle 482 left Road 1.
+Time 390: Vehicle 304 left Road 1.
+Time 391: Vehicle 1001 entered Road 2.
+Time 392: Vehicle 1111 entered Road 3.
+Time 393: Vehicle 1407 entered Road 3.
+Time 394: Vehicle 1750 entered Road 3.
+Time 395: Vehicle 463 entered Road 1.
+Time 396: Vehicle 1128 entered Road 3.
+Time 397: Vehicle 43 entered Road 1.
+Time 398: Vehicle 1517 entered Road 3.
+Time 399: Vehicle 254 entered Road 1.
+Time 400: Vehicle 1047 entered Road 2.
+Time 400: Vehicle 892 left Road 2.
+Time 400: Vehicle 788 left Road 2.
+Time 400: Vehicle 916 left Road 2.
+Time 400: Vehicle 834 left Road 2.
+Time 400: Vehicle 1044 left Road 2.
+Time 401: Vehicle 701 entered Road 2.
+Time 402: Vehicle 940 entered Road 2.
+Time 403: Vehicle 1731 entered Road 3.
+Time 404: Vehicle 1062 entered Road 2.
+Time 405: Vehicle 414 entered Road 1.
+Time 406: Vehicle 876 entered Road 2.
+Time 407: Vehicle 1648 entered Road 3.
+Time 408: Vehicle 198 entered Road 1.
+Time 409: Vehicle 1322 entered Road 3.
+Time 410: Vehicle 1317 entered Road 3.
+Time 410: Vehicle 1662 left Road 3.
+Time 410: Vehicle 1819 left Road 3.
+Time 410: Vehicle 1271 left Road 3.
+Time 410: Vehicle 1382 left Road 3.
+Time 410: Vehicle 1464 left Road 3.
+Time 411: Vehicle 693 entered Road 2.
+Time 412: Vehicle 836 entered Road 2.
+Time 413: Vehicle 466 entered Road 1.
+Time 414: Vehicle 855 entered Road 2.
+Time 415: Vehicle 1150 entered Road 3.
+Time 416: Vehicle 1514 entered Road 3.
+Time 417: Vehicle 1218 entered Road 3.
+Time 418: Vehicle 1531 entered Road 3.
+Time 419: Vehicle 389 entered Road 1.
+Time 420: Vehicle 468 entered Road 1.
+Time 420: Vehicle 458 left Road 1.
+Time 420: Vehicle 335 left Road 1.
+Time 420: Vehicle 430 left Road 1.
+Time 420: Vehicle 61 left Road 1.
+Time 420: Vehicle 281 left Road 1.
+Time 421: Vehicle 1229 entered Road 3.
+Time 422: Vehicle 583 entered Road 2.
+Time 423: Vehicle 1495 entered Road 3.
+Time 424: Vehicle 1135 entered Road 3.
+Time 425: Vehicle 1319 entered Road 3.
+Time 426: Vehicle 946 entered Road 2.
+Time 427: Vehicle 1136 entered Road 3.
+Time 428: Vehicle 1631 entered Road 3.
+Time 429: Vehicle 667 entered Road 2.
+Time 430: Vehicle 51 entered Road 1.
+Time 430: Vehicle 1031 left Road 2.
+Time 430: Vehicle 752 left Road 2.
+Time 430: Vehicle 538 left Road 2.
+Time 430: Vehicle 965 left Road 2.
+Time 430: Vehicle 543 left Road 2.
+Time 431: Vehicle 193 entered Road 1.
+Time 432: Vehicle 484 entered Road 1.
+Time 433: Vehicle 981 entered Road 2.
+Time 434: Vehicle 1375 entered Road 3.
+Time 435: Vehicle 1699 entered Road 3.
+Time 436: Vehicle 743 entered Road 2.
+Time 437: Vehicle 1692 entered Road 3.
+Time 438: Vehicle 1763 entered Road 3.
+Time 439: Vehicle 1033 entered Road 2.
+Time 440: Vehicle 1289 entered Road 3.
+Time 440: Vehicle 1116 left Road 3.
+Time 440: Vehicle 1442 left Road 3.
+Time 440: Vehicle 1559 left Road 3.
+Time 440: Vehicle 1605 left Road 3.
+Time 440: Vehicle 1303 left Road 3.
+Time 441: Vehicle 729 entered Road 2.
+Time 442: Vehicle 472 entered Road 1.
+Time 443: Vehicle 879 entered Road 2.
+Time 444: Vehicle 928 entered Road 2.
+Time 445: Vehicle 969 entered Road 2.
+Time 446: Vehicle 1318 entered Road 3.
+Time 447: Vehicle 1556 entered Road 3.
+Time 448: Vehicle 822 entered Road 2.
+Time 449: Vehicle 985 entered Road 2.
+Time 450: Vehicle 1621 entered Road 3.
+Time 450: Vehicle 10 left Road 1.
+Time 450: Vehicle 358 left Road 1.
+Time 450: Vehicle 492 left Road 1.
+Time 450: Vehicle 260 left Road 1.
+Time 450: Vehicle 27 left Road 1.
+Time 451: Vehicle 343 entered Road 1.
+Time 452: Vehicle 1394 entered Road 3.
+Time 453: Vehicle 1145 entered Road 3.
+Time 454: Vehicle 1800 entered Road 3.
+Time 455: Vehicle 778 entered Road 2.
+Time 456: Vehicle 997 entered Road 2.
+Time 457: Vehicle 948 entered Road 2.
+Time 458: Vehicle 449 entered Road 1.
+Time 459: Vehicle 1704 entered Road 3.
+Time 460: Vehicle 873 entered Road 2.
+Time 460: Vehicle 684 left Road 2.
+Time 460: Vehicle 666 left Road 2.
+Time 460: Vehicle 992 left Road 2.
+Time 460: Vehicle 867 left Road 2.
+Time 460: Vehicle 813 left Road 2.
+Time 461: Vehicle 208 entered Road 1.
+Time 462: Vehicle 755 entered Road 2.
+Time 463: Vehicle 1324 entered Road 3.
+Time 464: Vehicle 64 entered Road 1.
+Time 465: Vehicle 1506 entered Road 3.
+Time 466: Vehicle 1020 entered Road 2.
+Time 467: Vehicle 276 entered Road 1.
+Time 468: Vehicle 625 entered Road 2.
+Time 469: Vehicle 898 entered Road 2.
+Time 470: Vehicle 1469 entered Road 3.
+Time 470: Vehicle 1723 left Road 3.
+Time 470: Vehicle 1157 left Road 3.
+Time 470: Vehicle 1411 left Road 3.
+Time 470: Vehicle 1554 left Road 3.
+Time 470: Vehicle 1381 left Road 3.
+Time 471: Vehicle 909 entered Road 2.
+Time 472: Vehicle 902 entered Road 2.
+Time 473: Vehicle 1121 entered Road 3.
+Time 474: Vehicle 1769 entered Road 3.
+Time 475: Vehicle 562 entered Road 2.
+Time 476: Vehicle 943 entered Road 2.
+Time 477: Vehicle 1740 entered Road 3.
+Time 478: Vehicle 856 entered Road 2.
+Time 479: Vehicle 360 entered Road 1.
+Time 480: Vehicle 377 entered Road 1.
+Time 480: Vehicle 185 left Road 1.
+Time 480: Vehicle 464 left Road 1.
+Time 480: Vehicle 356 left Road 1.
+Time 480: Vehicle 404 left Road 1.
+Time 480: Vehicle 151 left Road 1.
+Time 481: Vehicle 1803 entered Road 3.
+Time 482: Vehicle 1773 entered Road 3.
+Time 483: Vehicle 469 entered Road 1.
+Time 484: Vehicle 517 entered Road 2.
+Time 485: Vehicle 705 entered Road 2.
+Time 486: Vehicle 1702 entered Road 3.
+Time 487: Vehicle 1673 entered Road 3.
+Time 488: Vehicle 1082 entered Road 2.
+Time 489: Vehicle 801 entered Road 2.
+Time 490: Vehicle 1541 entered Road 3.
+Time 490: Vehicle 975 left Road 2.
+Time 490: Vehicle 857 left Road 2.
+Time 490: Vehicle 912 left Road 2.
+Time 490: Vehicle 664 left Road 2.
+Time 490: Vehicle 886 left Road 2.
+Time 491: Vehicle 1760 entered Road 3.
+Time 492: Vehicle 1078 entered Road 2.
+Time 493: Vehicle 1103 entered Road 2.
+Time 494: Vehicle 291 entered Road 1.
+Time 495: Vehicle 429 entered Road 1.
+Time 496: Vehicle 257 entered Road 1.
+Time 497: Vehicle 564 entered Road 2.
+Time 498: Vehicle 314 entered Road 1.
+Time 499: Vehicle 443 entered Road 1.
+Time 500: Vehicle 309 entered Road 1.
+Time 500: Vehicle 1637 left Road 3.
+Time 500: Vehicle 1550 left Road 3.
+Time 500: Vehicle 1794 left Road 3.
+Time 500: Vehicle 1816 left Road 3.
+Time 500: Vehicle 1482 left Road 3.
+Time 501: Vehicle 847 entered Road 2.
+Time 502: Vehicle 1659 entered Road 3.
+Time 503: Vehicle 1400 entered Road 3.
+Time 504: Vehicle 53 entered Road 1.
+Time 505: Vehicle 1053 entered Road 2.
+Time 506: Vehicle 1686 entered Road 3.
+Time 507: Vehicle 319 entered Road 1.
+Time 508: Vehicle 1184 entered Road 3.
+Time 509: Vehicle 639 entered Road 2.
+Time 510: Vehicle 1458 entered Road 3.
+Time 510: Vehicle 405 left Road 1.
+Time 510: Vehicle 415 left Road 1.
+Time 510: Vehicle 207 left Road 1.
+Time 510: Vehicle 282 left Road 1.
+Time 510: Vehicle 330 left Road 1.
+Time 511: Vehicle 1670 entered Road 3.
+Time 512: Vehicle 1781 entered Road 3.
+Time 513: Vehicle 915 entered Road 2.
+Time 514: Vehicle 575 entered Road 2.
+Time 515: Vehicle 883 entered Road 2.
+Time 516: Vehicle 1577 entered Road 3.
+Time 517: Vehicle 49 entered Road 1.
+Time 518: Vehicle 618 entered Road 2.
+Time 519: Vehicle 968 entered Road 2.
+Time 520: Vehicle 1050 entered Road 2.
+Time 520: Vehicle 964 left Road 2.
+Time 520: Vehicle 722 left Road 2.
+Time 520: Vehicle 628 left Road 2.
+Time 520: Vehicle 518 left Road 2.
+Time 520: Vehicle 541 left Road 2.
+Time 521: Vehicle 1588 entered Road 3.
+Time 522: Vehicle 615 entered Road 2.
+Time 523: Vehicle 1715 entered Road 3.
+Time 524: Vehicle 1538 entered Road 3.
+Time 525: Vehicle 1666 entered Road 3.
+Time 526: Vehicle 119 entered Road 1.
+Time 527: Vehicle 204 entered Road 1.
+Time 528: Vehicle 99 entered Road 1.
+Time 529: Vehicle 913 entered Road 2.
+Time 530: Vehicle 565 entered Road 2.
+Time 530: Vehicle 1235 left Road 3.
+Time 530: Vehicle 1217 left Road 3.
+Time 530: Vehicle 1351 left Road 3.
+Time 530: Vehicle 1460 left Road 3.
+Time 530: Vehicle 1521 left Road 3.
+Time 531: Vehicle 1012 entered Road 2.
+Time 532: Vehicle 135 entered Road 1.
+Time 533: Vehicle 870 entered Road 2.
+Time 534: Vehicle 668 entered Road 2.
+Time 535: Vehicle 420 entered Road 1.
+Time 536: Vehicle 1159 entered Road 3.
+Time 537: Vehicle 1227 entered Road 3.
+Time 538: Vehicle 1700 entered Road 3.
+Time 539: Vehicle 334 entered Road 1.
+Time 540: Vehicle 1797 entered Road 3.
+Time 540: Vehicle 234 left Road 1.
+Time 540: Vehicle 402 left Road 1.
+Time 540: Vehicle 167 left Road 1.
+Time 540: Vehicle 374 left Road 1.
+Time 540: Vehicle 269 left Road 1.
+Time 541: Vehicle 1014 entered Road 2.
+Time 542: Vehicle 1261 entered Road 3.
+Time 543: Vehicle 1201 entered Road 3.
+Time 544: Vehicle 1342 entered Road 3.
+Time 545: Vehicle 1783 entered Road 3.
+Time 546: Vehicle 1117 entered Road 3.
+Time 547: Vehicle 1338 entered Road 3.
+Time 548: Vehicle 286 entered Road 1.
+Time 549: Vehicle 803 entered Road 2.
+Time 550: Vehicle 339 entered Road 1.
+Time 550: Vehicle 923 left Road 2.
+Time 550: Vehicle 644 left Road 2.
+Time 550: Vehicle 1021 left Road 2.
+Time 550: Vehicle 655 left Road 2.
+Time 550: Vehicle 507 left Road 2.
+Time 551: Vehicle 1085 entered Road 2.
+Time 552: Vehicle 81 entered Road 1.
+Time 553: Vehicle 211 entered Road 1.
+Time 554: Vehicle 109 entered Road 1.
+Time 555: Vehicle 1109 entered Road 3.
+Time 556: Vehicle 961 entered Road 2.
+Time 557: Vehicle 452 entered Road 1.
+Time 558: Vehicle 486 entered Road 1.
+Time 559: Vehicle 1516 entered Road 3.
+Time 560: Vehicle 737 entered Road 2.
+Time 560: Vehicle 1131 left Road 3.
+Time 560: Vehicle 1254 left Road 3.
+Time 560: Vehicle 1744 left Road 3.
+Time 560: Vehicle 1745 left Road 3.
+Time 560: Vehicle 1511 left Road 3.
+Time 561: Vehicle 763 entered Road 2.
+Time 562: Vehicle 1280 entered Road 3.
+Time 563: Vehicle 1695 entered Road 3.
+Time 564: Vehicle 381 entered Road 1.
+Time 565: Vehicle 526 entered Road 2.
+Time 566: Vehicle 1059 entered Road 2.
+Time 567: Vehicle 306 entered Road 1.
+Time 568: Vehicle 1038 entered Road 2.
+Time 569: Vehicle 1341 entered Road 3.
+Time 570: Vehicle 1000 entered Road 2.
+Time 570: Vehicle 351 left Road 1.
+Time 570: Vehicle 62 left Road 1.
+Time 570: Vehicle 247 left Road 1.
+Time 570: Vehicle 418 left Road 1.
+Time 570: Vehicle 267 left Road 1.
+Time 571: Vehicle 489 entered Road 1.
+Time 572: Vehicle 162 entered Road 1.
+Time 573: Vehicle 385 entered Road 1.
+Time 574: Vehicle 1734 entered Road 3.
+Time 575: Vehicle 1364 entered Road 3.
+Time 576: Vehicle 461 entered Road 1.
+Time 577: Vehicle 800 entered Road 2.
+Time 578: Vehicle 1616 entered Road 3.
+Time 579: Vehicle 1328 entered Road 3.
+Time 580: Vehicle 1555 entered Road 3.
+Time 580: Vehicle 1104 left Road 2.
+Time 580: Vehicle 944 left Road 2.
+Time 580: Vehicle 1091 left Road 2.
+Time 580: Vehicle 818 left Road 2.
+Time 580: Vehicle 531 left Road 2.
+Time 581: Vehicle 1581 entered Road 3.
+Time 582: Vehicle 90 entered Road 1.
+Time 583: Vehicle 558 entered Road 2.
+Time 584: Vehicle 63 entered Road 1.
+Time 585: Vehicle 390 entered Road 1.
+Time 586: Vehicle 1440 entered Road 3.
+Time 587: Vehicle 757 entered Road 2.
+Time 588: Vehicle 1435 entered Road 3.
+Time 589: Vehicle 1548 entered Road 3.
+Time 590: Vehicle 316 entered Road 1.
+Time 590: Vehicle 1453 left Road 3.
+Time 590: Vehicle 1350 left Road 3.
+Time 590: Vehicle 1433 left Road 3.
+Time 590: Vehicle 1424 left Road 3.
+Time 590: Vehicle 1238 left Road 3.
+Time 591: Vehicle 597 entered Road 2.
+Time 592: Vehicle 340 entered Road 1.
+Time 593: Vehicle 1292 entered Road 3.
+Time 594: Vehicle 1198 entered Road 3.
+Time 595: Vehicle 906 entered Road 2.
+Time 596: Vehicle 96 entered Road 1.
+Time 597: Vehicle 104 entered Road 1.
+Time 598: Vehicle 598 entered Road 2.
+Time 599: Vehicle 587 entered Road 2.
+Time 600: Vehicle 721 entered Road 2.
+Time 600: Vehicle 25 left Road 1.
+Time 600: Vehicle 373 left Road 1.
+Time 600: Vehicle 379 left Road 1.
+Time 600: Vehicle 328 left Road 1.
+Time 600: Vehicle 353 left Road 1.
+Time 601: Vehicle 1003 entered Road 2.
+Time 602: Vehicle 1343 entered Road 3.
+Time 603: Vehicle 168 entered Road 1.
+Time 604: Vehicle 595 entered Road 2.
+Time 605: Vehicle 367 entered Road 1.
+Time 606: Vehicle 1380 entered Road 3.
+Time 607: Vehicle 1406 entered Road 3.
+Time 608: Vehicle 770 entered Road 2.
+Time 609: Vehicle 702 entered Road 2.
+Time 610: Vehicle 74 entered Road 1.
+Time 610: Vehicle 949 left Road 2.
+Time 610: Vehicle 845 left Road 2.
+Time 610: Vehicle 713 left Road 2.
+Time 610: Vehicle 1035 left Road 2.
+Time 610: Vehicle 1079 left Road 2.
+Time 611: Vehicle 692 entered Road 2.
+Time 612: Vehicle 709 entered Road 2.
+Time 613: Vehicle 710 entered Road 2.
+Time 614: Vehicle 777 entered Road 2.
+Time 615: Vehicle 979 entered Road 2.
+Time 616: Vehicle 438 entered Road 1.
+Time 617: Vehicle 1451 entered Road 3.
+Time 618: Vehicle 742 entered Road 2.
+Time 619: Vehicle 243 entered Road 1.
+Time 620: Vehicle 467 entered Road 1.
+Time 620: Vehicle 1123 left Road 3.
+Time 620: Vehicle 1416 left Road 3.
+Time 620: Vehicle 1206 left Road 3.
+Time 620: Vehicle 1707 left Road 3.
+Time 620: Vehicle 1688 left Road 3.
+Time 621: Vehicle 917 entered Road 2.
+Time 622: Vehicle 630 entered Road 2.
+Time 623: Vehicle 84 entered Road 1.
+Time 624: Vehicle 303 entered Road 1.
+Time 625: Vehicle 686 entered Road 2.
+Time 626: Vehicle 1657 entered Road 3.
+Time 627: Vehicle 784 entered Road 2.
+Time 628: Vehicle 1023 entered Road 2.
+Time 629: Vehicle 80 entered Road 1.
+Time 630: Vehicle 120 entered Road 1.
+Time 630: Vehicle 425 left Road 1.
+Time 630: Vehicle 338 left Road 1.
+Time 630: Vehicle 261 left Road 1.
+Time 630: Vehicle 227 left Road 1.
+Time 630: Vehicle 264 left Road 1.
+Time 631: Vehicle 1041 entered Road 2.
+Time 632: Vehicle 1345 entered Road 3.
+Time 633: Vehicle 1352 entered Road 3.
+Time 634: Vehicle 1593 entered Road 3.
+Time 635: Vehicle 1787 entered Road 3.
+Time 636: Vehicle 1250 entered Road 3.
+Time 637: Vehicle 1006 entered Road 2.
+Time 638: Vehicle 790 entered Road 2.
+Time 639: Vehicle 1294 entered Road 3.
+Time 640: Vehicle 708 entered Road 2.
+Time 640: Vehicle 514 left Road 2.
+Time 640: Vehicle 739 left Road 2.
+Time 640: Vehicle 920 left Road 2.
+Time 640: Vehicle 1080 left Road 2.
+Time 640: Vehicle 890 left Road 2.
+Time 641: Vehicle 1701 entered Road 3.
+Time 642: Vehicle 688 entered Road 2.
+Time 643: Vehicle 1641 entered Road 3.
+Time 644: Vehicle 641 entered Road 2.
+Time 645: Vehicle 1106 entered Road 3.
+Time 646: Vehicle 731 entered Road 2.
+Time 647: Vehicle 835 entered Road 2.
+Time 648: Vehicle 76 entered Road 1.
+Time 649: Vehicle 1208 entered Road 3.
+Time 650: Vehicle 217 entered Road 1.
+Time 650: Vehicle 1312 left Road 3.
+Time 650: Vehicle 1654 left Road 3.
+Time 650: Vehicle 1691 left Road 3.
+Time 650: Vehicle 1153 left Road 3.
+Time 650: Vehicle 1431 left Road 3.
+Time 651: Vehicle 502 entered Road 2.
+Time 652: Vehicle 115 entered Road 1.
+Time 653: Vehicle 1266 entered Road 3.
+Time 654: Vehicle 159 entered Road 1.
+Time 655: Vehicle 92 entered Road 1.
+Time 656: Vehicle 1634 entered Road 3.
+Time 657: Vehicle 1720 entered Road 3.
+Time 658: Vehicle 477 entered Road 1.
+Time 659: Vehicle 149 entered Road 1.
+Time 660: Vehicle 301 entered Road 1.
+Time 660: Vehicle 463 left Road 1.
+Time 660: Vehicle 43 left Road 1.
+Time 660: Vehicle 254 left Road 1.
+Time 660: Vehicle 414 left Road 1.
+Time 660: Vehicle 198 left Road 1.
+Time 661: Vehicle 1822 entered Road 3.
+Time 662: Vehicle 661 entered Road 2.
+Time 663: Vehicle 1493 entered Road 3.
+Time 664: Vehicle 1165 entered Road 3.
+Time 665: Vehicle 1770 entered Road 3.
+Time 666: Vehicle 145 entered Road 1.
+Time 667: Vehicle 355 entered Road 1.
+Time 668: Vehicle 821 entered Road 2.
+Time 669: Vehicle 317 entered Road 1.
+Time 670: Vehicle 689 entered Road 2.
+Time 670: Vehicle 935 left Road 2.
+Time 670: Vehicle 676 left Road 2.
+Time 670: Vehicle 677 left Road 2.
+Time 670: Vehicle 506 left Road 2.
+Time 670: Vehicle 608 left Road 2.
+Time 671: Vehicle 1413 entered Road 3.
+Time 672: Vehicle 1543 entered Road 3.
+Time 673: Vehicle 1396 entered Road 3.
+Time 674: Vehicle 1504 entered Road 3.
+Time 675: Vehicle 966 entered Road 2.
+Time 676: Vehicle 1286 entered Road 3.
+Time 677: Vehicle 442 entered Road 1.
+Time 678: Vehicle 1156 entered Road 3.
+Time 679: Vehicle 1524 entered Road 3.
+Time 680: Vehicle 1549 entered Road 3.
+Time 680: Vehicle 1525 left Road 3.
+Time 680: Vehicle 1491 left Road 3.
+Time 680: Vehicle 1110 left Road 3.
+Time 680: Vehicle 1149 left Road 3.
+Time 680: Vehicle 1245 left Road 3.
+Time 681: Vehicle 600 entered Road 2.
+Time 682: Vehicle 988 entered Road 2.
+Time 683: Vehicle 67 entered Road 1.
+Time 684: Vehicle 1553 entered Road 3.
+Time 685: Vehicle 41 entered Road 1.
+Time 686: Vehicle 1144 entered Road 3.
+Time 687: Vehicle 980 entered Road 2.
+Time 688: Vehicle 19 entered Road 1.
+Time 689: Vehicle 1331 entered Road 3.
+Time 690: Vehicle 1398 entered Road 3.
+Time 690: Vehicle 466 left Road 1.
+Time 690: Vehicle 389 left Road 1.
+Time 690: Vehicle 468 left Road 1.
+Time 690: Vehicle 51 left Road 1.
+Time 690: Vehicle 193 left Road 1.
+Time 691: Vehicle 451 entered Road 1.
+Time 692: Vehicle 1344 entered Road 3.
+Time 693: Vehicle 411 entered Road 1.
+Time 694: Vehicle 542 entered Road 2.
+Time 695: Vehicle 78 entered Road 1.
+Time 696: Vehicle 720 entered Road 2.
+Time 697: Vehicle 1200 entered Road 3.
+Time 698: Vehicle 1594 entered Road 3.
+Time 699: Vehicle 75 entered Road 1.
+Time 700: Vehicle 225 entered Road 1.
+Time 700: Vehicle 1074 left Road 2.
+Time 700: Vehicle 820 left Road 2.
+Time 700: Vehicle 670 left Road 2.
+Time 700: Vehicle 761 left Road 2.
+Time 700: Vehicle 816 left Road 2.
+Time 701: Vehicle 1706 entered Road 3.
+Time 702: Vehicle 1211 entered Road 3.
+Time 703: Vehicle 744 entered Road 2.
+Time 704: Vehicle 251 entered Road 1.
+Time 705: Vehicle 869 entered Road 2.
+Time 706: Vehicle 672 entered Road 2.
+Time 707: Vehicle 1712 entered Road 3.
+Time 708: Vehicle 108 entered Road 1.
+Time 709: Vehicle 1119 entered Road 3.
+Time 710: Vehicle 173 entered Road 1.
+Time 710: Vehicle 1420 left Road 3.
+Time 710: Vehicle 1582 left Road 3.
+Time 710: Vehicle 1305 left Road 3.
+Time 710: Vehicle 1297 left Road 3.
+Time 710: Vehicle 1472 left Road 3.
+Time 711: Vehicle 1100 entered Road 2.
+Time 712: Vehicle 1565 entered Road 3.
+Time 713: Vehicle 1592 entered Road 3.
+Time 714: Vehicle 1176 entered Road 3.
+Time 715: Vehicle 417 entered Road 1.
+Time 716: Vehicle 1821 entered Road 3.
+Time 717: Vehicle 345 entered Road 1.
+Time 718: Vehicle 809 entered Road 2.
+Time 719: Vehicle 1598 entered Road 3.
+Time 720: Vehicle 1362 entered Road 3.
+Time 720: Vehicle 484 left Road 1.
+Time 720: Vehicle 472 left Road 1.
+Time 720: Vehicle 343 left Road 1.
+Time 720: Vehicle 449 left Road 1.
+Time 720: Vehicle 208 left Road 1.
+Time 721: Vehicle 649 entered Road 2.
+Time 722: Vehicle 768 entered Road 2.
+Time 723: Vehicle 1129 entered Road 3.
+Time 724: Vehicle 1281 entered Road 3.
+Time 725: Vehicle 24 entered Road 1.
+Time 726: Vehicle 1260 entered Road 3.
+Time 727: Vehicle 1327 entered Road 3.
+Time 728: Vehicle 1737 entered Road 3.
+Time 729: Vehicle 1025 entered Road 2.
+Time 730: Vehicle 201 entered Road 1.
+Time 730: Vehicle 1009 left Road 2.
+Time 730: Vehicle 1004 left Road 2.
+Time 730: Vehicle 532 left Road 2.
+Time 730: Vehicle 1089 left Road 2.
+Time 730: Vehicle 694 left Road 2.
+Time 731: Vehicle 547 entered Road 2.
+Time 732: Vehicle 590 entered Road 2.
+Time 733: Vehicle 687 entered Road 2.
+Time 734: Vehicle 380 entered Road 1.
+Time 735: Vehicle 1214 entered Road 3.
+Time 736: Vehicle 305 entered Road 1.
+Time 737: Vehicle 779 entered Road 2.
+Time 738: Vehicle 860 entered Road 2.
+Time 739: Vehicle 947 entered Road 2.
+Time 740: Vehicle 960 entered Road 2.
+Time 740: Vehicle 1309 left Road 3.
+Time 740: Vehicle 1508 left Road 3.
+Time 740: Vehicle 1520 left Road 3.
+Time 740: Vehicle 1818 left Road 3.
+Time 740: Vehicle 1468 left Road 3.
+Time 741: Vehicle 206 entered Road 1.
+Time 742: Vehicle 1010 entered Road 2.
+Time 743: Vehicle 1132 entered Road 3.
+Time 744: Vehicle 1698 entered Road 3.
+Time 745: Vehicle 929 entered Road 2.
+Time 746: Vehicle 1190 entered Road 3.
+Time 747: Vehicle 1399 entered Road 3.
+Time 748: Vehicle 270 entered Road 1.
+Time 749: Vehicle 1681 entered Road 3.
+Time 750: Vehicle 320 entered Road 1.
+Time 750: Vehicle 64 left Road 1.
+Time 750: Vehicle 276 left Road 1.
+Time 750: Vehicle 360 left Road 1.
+Time 750: Vehicle 377 left Road 1.
+Time 750: Vehicle 469 left Road 1.
+Time 751: Vehicle 481 entered Road 1.
+Time 752: Vehicle 1349 entered Road 3.
+Time 753: Vehicle 1314 entered Road 3.
+Time 754: Vehicle 1043 entered Road 2.
+Time 755: Vehicle 1284 entered Road 3.
+Time 756: Vehicle 1537 entered Road 3.
+Time 757: Vehicle 601 entered Road 2.
+Time 758: Vehicle 1151 entered Road 3.
+Time 759: Vehicle 368 entered Road 1.
+Time 760: Vehicle 812 entered Road 2.
+Time 760: Vehicle 1001 left Road 2.
+Time 760: Vehicle 1047 left Road 2.
+Time 760: Vehicle 701 left Road 2.
+Time 760: Vehicle 940 left Road 2.
+Time 760: Vehicle 1062 left Road 2.
+Time 761: Vehicle 197 entered Road 1.
+Time 762: Vehicle 1148 entered Road 3.
+Time 763: Vehicle 1163 entered Road 3.
+Time 764: Vehicle 1358 entered Road 3.
+Time 765: Vehicle 426 entered Road 1.
+Time 766: Vehicle 116 entered Road 1.
+Time 767: Vehicle 1315 entered Road 3.
+Time 768: Vehicle 400 entered Road 1.
+Time 769: Vehicle 718 entered Road 2.
+Time 770: Vehicle 427 entered Road 1.
+Time 770: Vehicle 1367 left Road 3.
+Time 770: Vehicle 1668 left Road 3.
+Time 770: Vehicle 1627 left Road 3.
+Time 770: Vehicle 1552 left Road 3.
+Time 770: Vehicle 1456 left Road 3.
+Time 771: Vehicle 460 entered Road 1.
+Time 772: Vehicle 1669 entered Road 3.
+Time 773: Vehicle 200 entered Road 1.
+Time 774: Vehicle 1713 entered Road 3.
+Time 775: Vehicle 1320 entered Road 3.
+Time 776: Vehicle 325 entered Road 1.
+Time 777: Vehicle 296 entered Road 1.
+Time 778: Vehicle 1049 entered Road 2.
+Time 779: Vehicle 416 entered Road 1.
+Time 780: Vehicle 94 entered Road 1.
+Time 780: Vehicle 291 left Road 1.
+Time 780: Vehicle 429 left Road 1.
+Time 780: Vehicle 257 left Road 1.
+Time 780: Vehicle 314 left Road 1.
+Time 780: Vehicle 443 left Road 1.
+Time 781: Vehicle 741 entered Road 2.
+Time 782: Vehicle 188 entered Road 1.
+Time 783: Vehicle 1430 entered Road 3.
+Time 784: Vehicle 927 entered Road 2.
+Time 785: Vehicle 1547 entered Road 3.
+Time 786: Vehicle 15 entered Road 1.
+Time 787: Vehicle 1677 entered Road 3.
+Time 788: Vehicle 1791 entered Road 3.
+Time 789: Vehicle 327 entered Road 1.
+Time 790: Vehicle 984 entered Road 2.
+Time 790: Vehicle 876 left Road 2.
+Time 790: Vehicle 693 left Road 2.
+Time 790: Vehicle 836 left Road 2.
+Time 790: Vehicle 855 left Road 2.
+Time 790: Vehicle 583 left Road 2.
+Time 791: Vehicle 440 entered Road 1.
+Time 792: Vehicle 326 entered Road 1.
+Time 793: Vehicle 277 entered Road 1.
+Time 794: Vehicle 1189 entered Road 3.
+Time 795: Vehicle 1147 entered Road 3.
+Time 796: Vehicle 1727 entered Road 3.
+Time 797: Vehicle 1743 entered Road 3.
+Time 798: Vehicle 302 entered Road 1.
+Time 799: Vehicle 190 entered Road 1.
+Time 800: Vehicle 347 entered Road 1.
+Time 800: Vehicle 1223 left Road 3.
+Time 800: Vehicle 1158 left Road 3.
+Time 800: Vehicle 1765 left Road 3.
+Time 800: Vehicle 1204 left Road 3.
+Time 800: Vehicle 1252 left Road 3.
+Time 801: Vehicle 1347 entered Road 3.
+Time 802: Vehicle 858 entered Road 2.
+Time 803: Vehicle 1693 entered Road 3.
+Time 804: Vehicle 36 entered Road 1.
+Time 805: Vehicle 792 entered Road 2.
+Time 806: Vehicle 1503 entered Road 3.
+Time 807: Vehicle 828 entered Road 2.
+Time 808: Vehicle 22 entered Road 1.
+Time 809: Vehicle 313 entered Road 1.
+Time 810: Vehicle 333 entered Road 1.
+Time 810: Vehicle 309 left Road 1.
+Time 810: Vehicle 53 left Road 1.
+Time 810: Vehicle 319 left Road 1.
+Time 810: Vehicle 49 left Road 1.
+Time 810: Vehicle 119 left Road 1.
+Time 811: Vehicle 487 entered Road 1.
+Time 812: Vehicle 1102 entered Road 2.
+Time 813: Vehicle 344 entered Road 1.
+Time 814: Vehicle 1167 entered Road 3.
+Time 815: Vehicle 535 entered Road 2.
+Time 816: Vehicle 773 entered Road 2.
+Time 817: Vehicle 579 entered Road 2.
+Time 818: Vehicle 674 entered Road 2.
+Time 819: Vehicle 1739 entered Road 3.
+Time 820: Vehicle 26 entered Road 1.
+Time 820: Vehicle 946 left Road 2.
+Time 820: Vehicle 667 left Road 2.
+Time 820: Vehicle 981 left Road 2.
+Time 820: Vehicle 743 left Road 2.
+Time 820: Vehicle 1033 left Road 2.
+Time 821: Vehicle 1432 entered Road 3.
+Time 822: Vehicle 932 entered Road 2.
+Time 823: Vehicle 46 entered Road 1.
+Time 824: Vehicle 1026 entered Road 2.
+Time 825: Vehicle 1353 entered Road 3.
+Time 826: Vehicle 1606 entered Road 3.
+Time 827: Vehicle 223 entered Road 1.
+Time 828: Vehicle 896 entered Road 2.
+Time 829: Vehicle 73 entered Road 1.
+Time 830: Vehicle 528 entered Road 2.
+Time 830: Vehicle 1578 left Road 3.
+Time 830: Vehicle 1310 left Road 3.
+Time 830: Vehicle 1241 left Road 3.
+Time 830: Vehicle 1405 left Road 3.
+Time 830: Vehicle 1741 left Road 3.
+Time 831: Vehicle 1703 entered Road 3.
+Time 832: Vehicle 675 entered Road 2.
+Time 833: Vehicle 1473 entered Road 3.
+Time 834: Vehicle 605 entered Road 2.
+Time 835: Vehicle 363 entered Road 1.
+Time 836: Vehicle 1672 entered Road 3.
+Time 837: Vehicle 568 entered Road 2.
+Time 838: Vehicle 716 entered Road 2.
+Time 839: Vehicle 953 entered Road 2.
+Time 840: Vehicle 87 entered Road 1.
+Time 840: Vehicle 204 left Road 1.
+Time 840: Vehicle 99 left Road 1.
+Time 840: Vehicle 135 left Road 1.
+Time 840: Vehicle 420 left Road 1.
+Time 840: Vehicle 334 left Road 1.
+Time 841: Vehicle 318 entered Road 1.
+Time 842: Vehicle 1478 entered Road 3.
+Time 843: Vehicle 409 entered Road 1.
+Time 844: Vehicle 434 entered Road 1.
+Time 845: Vehicle 1207 entered Road 3.
+Time 846: Vehicle 1255 entered Road 3.
+Time 847: Vehicle 112 entered Road 1.
+Time 848: Vehicle 1070 entered Road 2.
+Time 849: Vehicle 1792 entered Road 3.
+Time 850: Vehicle 1454 entered Road 3.
+Time 850: Vehicle 729 left Road 2.
+Time 850: Vehicle 879 left Road 2.
+Time 850: Vehicle 928 left Road 2.
+Time 850: Vehicle 969 left Road 2.
+Time 850: Vehicle 822 left Road 2.
+Time 851: Vehicle 546 entered Road 2.
+Time 852: Vehicle 433 entered Road 1.
+Time 853: Vehicle 827 entered Road 2.
+Time 854: Vehicle 311 entered Road 1.
+Time 855: Vehicle 1474 entered Road 3.
+Time 856: Vehicle 1346 entered Road 3.
+Time 857: Vehicle 1678 entered Road 3.
+Time 858: Vehicle 559 entered Road 2.
+Time 859: Vehicle 89 entered Road 1.
+Time 860: Vehicle 278 entered Road 1.
+Time 860: Vehicle 1107 left Road 3.
+Time 860: Vehicle 1174 left Road 3.
+Time 860: Vehicle 1434 left Road 3.
+Time 860: Vehicle 1738 left Road 3.
+Time 860: Vehicle 1308 left Road 3.
+Time 861: Vehicle 1282 entered Road 3.
+Time 862: Vehicle 1422 entered Road 3.
+Time 863: Vehicle 738 entered Road 2.
+Time 864: Vehicle 1585 entered Road 3.
+Time 865: Vehicle 594 entered Road 2.
+Time 866: Vehicle 786 entered Road 2.
+Time 867: Vehicle 1777 entered Road 3.
+Time 868: Vehicle 1476 entered Road 3.
+Time 869: Vehicle 1083 entered Road 2.
+Time 870: Road 3 is FULL.
+Time 870: Vehicle 286 left Road 1.
+Time 870: Vehicle 339 left Road 1.
+Time 870: Vehicle 81 left Road 1.
+Time 870: Vehicle 211 left Road 1.
+Time 870: Vehicle 109 left Road 1.
+Time 871: Vehicle 216 entered Road 1.
+Time 872: Vehicle 930 entered Road 2.
+Time 873: Vehicle 100 entered Road 1.
+Time 874: Road 3 is FULL.
+Time 875: Vehicle 447 entered Road 1.
+Time 876: Road 3 is FULL.
+Time 877: Vehicle 147 entered Road 1.
+Time 878: Road 3 is FULL.
+Time 879: Vehicle 607 entered Road 2.
+Time 880: Road 3 is FULL.
+Time 880: Vehicle 985 left Road 2.
+Time 880: Vehicle 778 left Road 2.
+Time 880: Vehicle 997 left Road 2.
+Time 880: Vehicle 948 left Road 2.
+Time 880: Vehicle 873 left Road 2.
+Time 881: Road 3 is FULL.
+Time 882: Vehicle 121 entered Road 1.
+Time 883: Vehicle 295 entered Road 1.
+Time 884: Road 3 is FULL.
+Time 885: Vehicle 399 entered Road 1.
+Time 886: Vehicle 659 entered Road 2.
+Time 887: Vehicle 56 entered Road 1.
+Time 888: Road 3 is FULL.
+Time 889: Vehicle 210 entered Road 1.
+Time 890: Road 3 is FULL.
+Time 890: Vehicle 1348 left Road 3.
+Time 890: Vehicle 1798 left Road 3.
+Time 890: Vehicle 1610 left Road 3.
+Time 890: Vehicle 1812 left Road 3.
+Time 890: Vehicle 1108 left Road 3.
+Time 891: Vehicle 143 entered Road 1.
+Time 892: Vehicle 622 entered Road 2.
+Time 893: Vehicle 392 entered Road 1.
+Time 894: Vehicle 1736 entered Road 3.
+Time 895: Vehicle 437 entered Road 1.
+Time 896: Vehicle 403 entered Road 1.
+Time 897: Vehicle 1483 entered Road 3.
+Time 898: Vehicle 13 entered Road 1.
+Time 899: Vehicle 1564 entered Road 3.
+Time 900: Vehicle 324 entered Road 1.
+Time 900: Vehicle 452 left Road 1.
+Time 900: Vehicle 486 left Road 1.
+Time 900: Vehicle 381 left Road 1.
+Time 900: Vehicle 306 left Road 1.
+Time 900: Vehicle 489 left Road 1.
+Time 901: Vehicle 971 entered Road 2.
+Time 902: Vehicle 50 entered Road 1.
+Time 903: Vehicle 1069 entered Road 2.
+Time 904: Vehicle 1576 entered Road 3.
+Time 905: Vehicle 1619 entered Road 3.
+Time 906: Vehicle 832 entered Road 2.
+Time 907: Vehicle 233 entered Road 1.
+Time 908: Vehicle 623 entered Road 2.
+Time 909: Vehicle 730 entered Road 2.
+Time 910: Road 3 is FULL.
+Time 910: Vehicle 755 left Road 2.
+Time 910: Vehicle 1020 left Road 2.
+Time 910: Vehicle 625 left Road 2.
+Time 910: Vehicle 898 left Road 2.
+Time 910: Vehicle 909 left Road 2.
+Time 911: Vehicle 620 entered Road 2.
+Time 912: Vehicle 332 entered Road 1.
+Time 913: Vehicle 1017 entered Road 2.
+Time 914: Vehicle 789 entered Road 2.
+Time 915: Vehicle 852 entered Road 2.
+Time 916: Road 3 is FULL.
+Time 917: Road 3 is FULL.
+Time 918: Road 3 is FULL.
+Time 919: Road 3 is FULL.
+Time 920: Vehicle 955 entered Road 2.
+Time 920: Vehicle 1199 left Road 3.
+Time 920: Vehicle 1221 left Road 3.
+Time 920: Vehicle 1237 left Road 3.
+Time 920: Vehicle 1653 left Road 3.
+Time 920: Vehicle 1789 left Road 3.
+Time 921: Vehicle 1171 entered Road 3.
+Time 922: Vehicle 1450 entered Road 3.
+Time 923: Vehicle 1494 entered Road 3.
+Time 924: Vehicle 421 entered Road 1.
+Time 925: Vehicle 996 entered Road 2.
+Time 926: Vehicle 678 entered Road 2.
+Time 927: Vehicle 520 entered Road 2.
+Time 928: Vehicle 1595 entered Road 3.
+Time 929: Vehicle 1684 entered Road 3.
+Time 930: Vehicle 275 entered Road 1.
+Time 930: Vehicle 162 left Road 1.
+Time 930: Vehicle 385 left Road 1.
+Time 930: Vehicle 461 left Road 1.
+Time 930: Vehicle 90 left Road 1.
+Time 930: Vehicle 63 left Road 1.
+Time 931: Road 3 is FULL.
+Time 932: Road 3 is FULL.
+Time 933: Vehicle 287 entered Road 1.
+Time 934: Vehicle 423 entered Road 1.
+Time 935: Vehicle 1077 entered Road 2.
+Time 936: Road 3 is FULL.
+Time 937: Vehicle 160 entered Road 1.
+Time 938: Vehicle 951 entered Road 2.
+Time 939: Vehicle 133 entered Road 1.
+Time 940: Road 3 is FULL.
+Time 940: Vehicle 902 left Road 2.
+Time 940: Vehicle 562 left Road 2.
+Time 940: Vehicle 943 left Road 2.
+Time 940: Vehicle 856 left Road 2.
+Time 940: Vehicle 517 left Road 2.
+Time 941: Road 3 is FULL.
+Time 942: Vehicle 839 entered Road 2.
+Time 943: Vehicle 747 entered Road 2.
+Time 944: Road 3 is FULL.
+Time 945: Vehicle 1039 entered Road 2.
+Time 946: Road 3 is FULL.
+Time 947: Vehicle 895 entered Road 2.
+Time 948: Road 3 is FULL.
+Time 949: Vehicle 840 entered Road 2.
+Time 950: Vehicle 1071 entered Road 2.
+Time 950: Vehicle 1500 left Road 3.
+Time 950: Vehicle 1259 left Road 3.
+Time 950: Vehicle 1333 left Road 3.
+Time 950: Vehicle 1335 left Road 3.
+Time 950: Vehicle 1384 left Road 3.
+Time 951: Vehicle 478 entered Road 1.
+Time 952: Vehicle 651 entered Road 2.
+Time 953: Vehicle 1805 entered Road 3.
+Time 954: Vehicle 252 entered Road 1.
+Time 955: Vehicle 450 entered Road 1.
+Time 956: Vehicle 643 entered Road 2.
+Time 957: Vehicle 700 entered Road 2.
+Time 958: Vehicle 21 entered Road 1.
+Time 959: Vehicle 910 entered Road 2.
+Time 960: Vehicle 987 entered Road 2.
+Time 960: Vehicle 390 left Road 1.
+Time 960: Vehicle 316 left Road 1.
+Time 960: Vehicle 340 left Road 1.
+Time 960: Vehicle 96 left Road 1.
+Time 960: Vehicle 104 left Road 1.
+Time 961: Vehicle 1369 entered Road 3.
+Time 962: Vehicle 924 entered Road 2.
+Time 963: Vehicle 1203 entered Road 3.
+Time 964: Vehicle 697 entered Road 2.
+Time 965: Vehicle 734 entered Road 2.
+Time 966: Vehicle 1463 entered Road 3.
+Time 967: Vehicle 388 entered Road 1.
+Time 968: Vehicle 1614 entered Road 3.
+Time 969: Road 3 is FULL.
+Time 970: Vehicle 289 entered Road 1.
+Time 970: Vehicle 705 left Road 2.
+Time 970: Vehicle 1082 left Road 2.
+Time 970: Vehicle 801 left Road 2.
+Time 970: Vehicle 1078 left Road 2.
+Time 970: Vehicle 1103 left Road 2.
+Time 971: Vehicle 862 entered Road 2.
+Time 972: Road 3 is FULL.
+Time 973: Road 3 is FULL.
+Time 974: Vehicle 265 entered Road 1.
+Time 975: Road 3 is FULL.
+Time 976: Vehicle 129 entered Road 1.
+Time 977: Vehicle 226 entered Road 1.
+Time 978: Vehicle 596 entered Road 2.
+Time 979: Vehicle 483 entered Road 1.
+Time 980: Vehicle 740 entered Road 2.
+Time 980: Vehicle 1481 left Road 3.
+Time 980: Vehicle 1502 left Road 3.
+Time 980: Vehicle 1111 left Road 3.
+Time 980: Vehicle 1407 left Road 3.
+Time 980: Vehicle 1750 left Road 3.
+Time 981: Vehicle 1820 entered Road 3.
+Time 982: Vehicle 1730 entered Road 3.
+Time 983: Vehicle 810 entered Road 2.
+Time 984: Vehicle 1072 entered Road 2.
+Time 985: Vehicle 1112 entered Road 3.
+Time 986: Vehicle 58 entered Road 1.
+Time 987: Vehicle 283 entered Road 1.
+Time 988: Vehicle 1087 entered Road 2.
+Time 989: Vehicle 1013 entered Road 2.
+Time 990: Vehicle 1528 entered Road 3.
+Time 990: Vehicle 168 left Road 1.
+Time 990: Vehicle 367 left Road 1.
+Time 990: Vehicle 74 left Road 1.
+Time 990: Vehicle 438 left Road 1.
+Time 990: Vehicle 243 left Road 1.
+Time 991: Vehicle 218 entered Road 1.
+Time 992: Vehicle 1441 entered Road 3.
+Time 993: Road 3 is FULL.
+Time 994: Vehicle 136 entered Road 1.
+Time 995: Vehicle 1055 entered Road 2.
+Time 996: Vehicle 194 entered Road 1.
+Time 997: Vehicle 488 entered Road 1.
+Time 998: Vehicle 591 entered Road 2.
+Time 999: Vehicle 791 entered Road 2.
+Time 1000: Road 3 is FULL.
+Time 1000: Vehicle 564 left Road 2.
+Time 1000: Vehicle 847 left Road 2.
+Time 1000: Vehicle 1053 left Road 2.
+Time 1000: Vehicle 639 left Road 2.
+Time 1000: Vehicle 915 left Road 2.
+Time 1001: Vehicle 1016 entered Road 2.
+Time 1002: Road 3 is FULL.
+Time 1003: Vehicle 273 entered Road 1.
+Time 1004: Road 3 is FULL.
+Time 1005: Road 3 is FULL.
+Time 1006: Vehicle 413 entered Road 1.
+Time 1007: Road 3 is FULL.
+Time 1008: Vehicle 54 entered Road 1.
+Time 1009: Vehicle 131 entered Road 1.
+Time 1010: Vehicle 459 entered Road 1.
+Time 1010: Vehicle 1128 left Road 3.
+Time 1010: Vehicle 1517 left Road 3.
+Time 1010: Vehicle 1731 left Road 3.
+Time 1010: Vehicle 1648 left Road 3.
+Time 1010: Vehicle 1322 left Road 3.
+Time 1011: Vehicle 524 entered Road 2.
+Time 1012: Vehicle 551 entered Road 2.
+Time 1013: Vehicle 577 entered Road 2.
+Time 1014: Vehicle 1177 entered Road 3.
+Time 1015: Vehicle 395 entered Road 1.
+Time 1016: Vehicle 1007 entered Road 2.
+Time 1017: Vehicle 841 entered Road 2.
+Time 1018: Vehicle 1439 entered Road 3.
+Time 1019: Vehicle 897 entered Road 2.
+Time 1020: Vehicle 1527 entered Road 3.
+Time 1020: Vehicle 467 left Road 1.
+Time 1020: Vehicle 84 left Road 1.
+Time 1020: Vehicle 303 left Road 1.
+Time 1020: Vehicle 80 left Road 1.
+Time 1020: Vehicle 120 left Road 1.
+Time 1021: Vehicle 2 entered Road 1.
+Time 1022: Vehicle 68 entered Road 1.
+Time 1023: Vehicle 956 entered Road 2.
+Time 1024: Vehicle 1718 entered Road 3.
+Time 1025: Vehicle 230 entered Road 1.
+Time 1026: Vehicle 574 entered Road 2.
+Time 1027: Vehicle 732 entered Road 2.
+Time 1028: Vehicle 1313 entered Road 3.
+Time 1029: Vehicle 893 entered Road 2.
+Time 1030: Road 3 is FULL.
+Time 1030: Vehicle 575 left Road 2.
+Time 1030: Vehicle 883 left Road 2.
+Time 1030: Vehicle 618 left Road 2.
+Time 1030: Vehicle 968 left Road 2.
+Time 1030: Vehicle 1050 left Road 2.
+Time 1031: Road 3 is FULL.
+Time 1032: Road 3 is FULL.
+Time 1033: Vehicle 723 entered Road 2.
+Time 1034: Road 3 is FULL.
+Time 1035: Vehicle 288 entered Road 1.
+Time 1036: Road 3 is FULL.
+Time 1037: Road 3 is FULL.
+Time 1038: Road 3 is FULL.
+Time 1039: Vehicle 321 entered Road 1.
+Time 1040: Road 3 is FULL.
+Time 1040: Vehicle 1317 left Road 3.
+Time 1040: Vehicle 1150 left Road 3.
+Time 1040: Vehicle 1514 left Road 3.
+Time 1040: Vehicle 1218 left Road 3.
+Time 1040: Vehicle 1531 left Road 3.
+Time 1041: Vehicle 1365 entered Road 3.
+Time 1042: Vehicle 1774 entered Road 3.
+Time 1043: Vehicle 1234 entered Road 3.
+Time 1044: Vehicle 424 entered Road 1.
+Time 1045: Vehicle 1418 entered Road 3.
+Time 1046: Vehicle 475 entered Road 1.
+Time 1047: Vehicle 698 entered Road 2.
+Time 1048: Vehicle 150 entered Road 1.
+Time 1049: Vehicle 407 entered Road 1.
+Time 1050: Vehicle 581 entered Road 2.
+Time 1050: Vehicle 76 left Road 1.
+Time 1050: Vehicle 217 left Road 1.
+Time 1050: Vehicle 115 left Road 1.
+Time 1050: Vehicle 159 left Road 1.
+Time 1050: Vehicle 92 left Road 1.
+Time 1051: Vehicle 1771 entered Road 3.
+Time 1052: Vehicle 274 entered Road 1.
+Time 1053: Vehicle 958 entered Road 2.
+Time 1054: Vehicle 1011 entered Road 2.
+Time 1055: Vehicle 830 entered Road 2.
+Time 1056: Vehicle 52 entered Road 1.
+Time 1057: Vehicle 439 entered Road 1.
+Time 1058: Vehicle 823 entered Road 2.
+Time 1059: Road 3 is FULL.
+Time 1060: Road 3 is FULL.
+Time 1060: Vehicle 615 left Road 2.
+Time 1060: Vehicle 913 left Road 2.
+Time 1060: Vehicle 565 left Road 2.
+Time 1060: Vehicle 1012 left Road 2.
+Time 1060: Vehicle 870 left Road 2.
+Time 1061: Vehicle 82 entered Road 1.
+Time 1062: Vehicle 725 entered Road 2.
+Time 1063: Vehicle 868 entered Road 2.
+Time 1064: Vehicle 584 entered Road 2.
+Time 1065: Road 3 is FULL.
+Time 1066: Vehicle 781 entered Road 2.
+Time 1067: Vehicle 431 entered Road 1.
+Time 1068: Vehicle 549 entered Road 2.
+Time 1069: Road 3 is FULL.
+Time 1070: Vehicle 780 entered Road 2.
+Time 1070: Vehicle 1229 left Road 3.
+Time 1070: Vehicle 1495 left Road 3.
+Time 1070: Vehicle 1135 left Road 3.
+Time 1070: Vehicle 1319 left Road 3.
+Time 1070: Vehicle 1136 left Road 3.
+Time 1071: Vehicle 1815 entered Road 3.
+Time 1072: Vehicle 533 entered Road 2.
+Time 1073: Vehicle 554 entered Road 2.
+Time 1074: Vehicle 872 entered Road 2.
+Time 1075: Vehicle 180 entered Road 1.
+Time 1076: Vehicle 406 entered Road 1.
+Time 1077: Vehicle 79 entered Road 1.
+Time 1078: Vehicle 45 entered Road 1.
+Time 1079: Vehicle 1529 entered Road 3.
+Time 1080: Vehicle 1487 entered Road 3.
+Time 1080: Vehicle 477 left Road 1.
+Time 1080: Vehicle 149 left Road 1.
+Time 1080: Vehicle 301 left Road 1.
+Time 1080: Vehicle 145 left Road 1.
+Time 1080: Vehicle 355 left Road 1.
+Time 1081: Vehicle 101 entered Road 1.
+Time 1082: Vehicle 1029 entered Road 2.
+Time 1083: Vehicle 1449 entered Road 3.
+Time 1084: Vehicle 454 entered Road 1.
+Time 1085: Vehicle 604 entered Road 2.
+Time 1086: Vehicle 1073 entered Road 2.
+Time 1087: Vehicle 12 entered Road 1.
+Time 1088: Vehicle 610 entered Road 2.
+Time 1089: Vehicle 762 entered Road 2.
+Time 1090: Vehicle 1446 entered Road 3.
+Time 1090: Vehicle 668 left Road 2.
+Time 1090: Vehicle 1014 left Road 2.
+Time 1090: Vehicle 803 left Road 2.
+Time 1090: Vehicle 1085 left Road 2.
+Time 1090: Vehicle 961 left Road 2.
+Time 1091: Road 3 is FULL.
+Time 1092: Road 3 is FULL.
+Time 1093: Road 3 is FULL.
+Time 1094: Vehicle 457 entered Road 1.
+Time 1095: Road 3 is FULL.
+Time 1096: Road 3 is FULL.
+Time 1097: Vehicle 658 entered Road 2.
+Time 1098: Road 3 is FULL.
+Time 1099: Road 3 is FULL.
+Time 1100: Road 3 is FULL.
+Time 1100: Vehicle 1631 left Road 3.
+Time 1100: Vehicle 1375 left Road 3.
+Time 1100: Vehicle 1699 left Road 3.
+Time 1100: Vehicle 1692 left Road 3.
+Time 1100: Vehicle 1763 left Road 3.
+Time 1101: Vehicle 1175 entered Road 3.
+Time 1102: Vehicle 1518 entered Road 3.
+Time 1103: Vehicle 682 entered Road 2.
+Time 1104: Vehicle 703 entered Road 2.
+Time 1105: Vehicle 976 entered Road 2.
+Time 1106: Vehicle 66 entered Road 1.
+Time 1107: Vehicle 993 entered Road 2.
+Time 1108: Vehicle 652 entered Road 2.
+Time 1109: Vehicle 807 entered Road 2.
+Time 1110: Vehicle 1134 entered Road 3.
+Time 1110: Vehicle 317 left Road 1.
+Time 1110: Vehicle 442 left Road 1.
+Time 1110: Vehicle 67 left Road 1.
+Time 1110: Vehicle 41 left Road 1.
+Time 1110: Vehicle 19 left Road 1.
+Time 1111: Vehicle 1479 entered Road 3.
+Time 1112: Vehicle 1697 entered Road 3.
+Time 1113: Road 3 is FULL.
+Time 1114: Vehicle 394 entered Road 1.
+Time 1115: Vehicle 983 entered Road 2.
+Time 1116: Road 3 is FULL.
+Time 1117: Vehicle 508 entered Road 2.
+Time 1118: Vehicle 804 entered Road 2.
+Time 1119: Vehicle 383 entered Road 1.
+Time 1120: Road 3 is FULL.
+Time 1120: Vehicle 737 left Road 2.
+Time 1120: Vehicle 763 left Road 2.
+Time 1120: Vehicle 526 left Road 2.
+Time 1120: Vehicle 1059 left Road 2.
+Time 1120: Vehicle 1038 left Road 2.
+Time 1121: Vehicle 165 entered Road 1.
+Time 1122: Road 3 is FULL.
+Time 1123: Vehicle 229 entered Road 1.
+Time 1124: Vehicle 1065 entered Road 2.
+Time 1125: Road 3 is FULL.
+Time 1126: Vehicle 169 entered Road 1.
+Time 1127: Vehicle 1075 entered Road 2.
+Time 1128: Road 3 is FULL.
+Time 1129: Road 3 is FULL.
+Time 1130: Road 3 is FULL.
+Time 1130: Vehicle 1289 left Road 3.
+Time 1130: Vehicle 1318 left Road 3.
+Time 1130: Vehicle 1556 left Road 3.
+Time 1130: Vehicle 1621 left Road 3.
+Time 1130: Vehicle 1394 left Road 3.
+Time 1131: Vehicle 396 entered Road 1.
+Time 1132: Vehicle 959 entered Road 2.
+Time 1133: Vehicle 271 entered Road 1.
+Time 1134: Vehicle 473 entered Road 1.
+Time 1135: Vehicle 1388 entered Road 3.
+Time 1136: Vehicle 806 entered Road 2.
+Time 1137: Vehicle 130 entered Road 1.
+Time 1138: Vehicle 1620 entered Road 3.
+Time 1139: Vehicle 1638 entered Road 3.
+Time 1140: Vehicle 57 entered Road 1.
+Time 1140: Vehicle 451 left Road 1.
+Time 1140: Vehicle 411 left Road 1.
+Time 1140: Vehicle 78 left Road 1.
+Time 1140: Vehicle 75 left Road 1.
+Time 1140: Vehicle 225 left Road 1.
+Time 1141: Vehicle 1045 entered Road 2.
+Time 1142: Vehicle 1767 entered Road 3.
+Time 1143: Vehicle 341 entered Road 1.
+Time 1144: Vehicle 1466 entered Road 3.
+Time 1145: Vehicle 642 entered Road 2.
+Time 1146: Vehicle 1046 entered Road 2.
+Time 1147: Vehicle 69 entered Road 1.
+Time 1148: Vehicle 294 entered Road 1.
+Time 1149: Vehicle 1061 entered Road 2.
+Time 1150: Road 3 is FULL.
+Time 1150: Vehicle 1000 left Road 2.
+Time 1150: Vehicle 800 left Road 2.
+Time 1150: Vehicle 558 left Road 2.
+Time 1150: Vehicle 757 left Road 2.
+Time 1150: Vehicle 597 left Road 2.
+Time 1151: Road 3 is FULL.
+Time 1152: Vehicle 567 entered Road 2.
+Time 1153: Vehicle 991 entered Road 2.
+Time 1154: Vehicle 950 entered Road 2.
+Time 1155: Road 3 is FULL.
+Time 1156: Vehicle 18 entered Road 1.
+Time 1157: Vehicle 1052 entered Road 2.
+Time 1158: Road 3 is FULL.
+Time 1159: Road 3 is FULL.
+Time 1160: Vehicle 238 entered Road 1.
+Time 1160: Vehicle 1145 left Road 3.
+Time 1160: Vehicle 1800 left Road 3.
+Time 1160: Vehicle 1704 left Road 3.
+Time 1160: Vehicle 1324 left Road 3.
+Time 1160: Vehicle 1506 left Road 3.
+Time 1161: Vehicle 1101 entered Road 2.
+Time 1162: Vehicle 1561 entered Road 3.
+Time 1163: Vehicle 1133 entered Road 3.
+Time 1164: Vehicle 1215 entered Road 3.
+Time 1165: Vehicle 1363 entered Road 3.
+Time 1166: Vehicle 232 entered Road 1.
+Time 1167: Vehicle 767 entered Road 2.
+Time 1168: Vehicle 1437 entered Road 3.
+Time 1169: Vehicle 342 entered Road 1.
+Time 1170: Road 3 is FULL.
+Time 1170: Vehicle 251 left Road 1.
+Time 1170: Vehicle 108 left Road 1.
+Time 1170: Vehicle 173 left Road 1.
+Time 1170: Vehicle 417 left Road 1.
+Time 1170: Vehicle 345 left Road 1.
+Time 1171: Vehicle 561 entered Road 2.
+Time 1172: Vehicle 1067 entered Road 2.
+Time 1173: Road 3 is FULL.
+Time 1174: Vehicle 152 entered Road 1.
+Time 1175: Vehicle 220 entered Road 1.
+Time 1176: Vehicle 312 entered Road 1.
+Time 1177: Vehicle 921 entered Road 2.
+Time 1178: Road 3 is FULL.
+Time 1179: Road 3 is FULL.
+Time 1180: Vehicle 699 entered Road 2.
+Time 1180: Vehicle 906 left Road 2.
+Time 1180: Vehicle 598 left Road 2.
+Time 1180: Vehicle 587 left Road 2.
+Time 1180: Vehicle 721 left Road 2.
+Time 1180: Vehicle 1003 left Road 2.
+Time 1181: Vehicle 336 entered Road 1.
+Time 1182: Vehicle 105 entered Road 1.
+Time 1183: Vehicle 901 entered Road 2.
+Time 1184: Vehicle 1060 entered Road 2.
+Time 1185: Road 3 is FULL.
+Time 1186: Road 3 is FULL.
+Time 1187: Road 3 is FULL.
+Time 1188: Vehicle 1063 entered Road 2.
+Time 1189: Vehicle 240 entered Road 1.
+Time 1190: Vehicle 446 entered Road 1.
+Time 1190: Vehicle 1469 left Road 3.
+Time 1190: Vehicle 1121 left Road 3.
+Time 1190: Vehicle 1769 left Road 3.
+Time 1190: Vehicle 1740 left Road 3.
+Time 1190: Vehicle 1803 left Road 3.
+Time 1191: Vehicle 941 entered Road 2.
+Time 1192: Vehicle 292 entered Road 1.
+Time 1193: Vehicle 936 entered Road 2.
+Time 1194: Vehicle 1389 entered Road 3.
+Time 1195: Vehicle 907 entered Road 2.
+Time 1196: Vehicle 962 entered Road 2.
+Time 1197: Vehicle 142 entered Road 1.
+Time 1198: Vehicle 219 entered Road 1.
+Time 1199: Vehicle 1447 entered Road 3.
+Time 1200: Vehicle 978 entered Road 2.
+Time 1200: Vehicle 24 left Road 1.
+Time 1200: Vehicle 201 left Road 1.
+Time 1200: Vehicle 380 left Road 1.
+Time 1200: Vehicle 305 left Road 1.
+Time 1200: Vehicle 206 left Road 1.
+Time 1201: Vehicle 1809 entered Road 3.
+Time 1202: Vehicle 471 entered Road 1.
+Time 1203: Vehicle 1417 entered Road 3.
+Time 1204: Vehicle 178 entered Road 1.
+Time 1205: Vehicle 824 entered Road 2.
+Time 1206: Vehicle 98 entered Road 1.
+Time 1207: Vehicle 285 entered Road 1.
+Time 1208: Vehicle 1813 entered Road 3.
+Time 1209: Vehicle 422 entered Road 1.
+Time 1210: Vehicle 919 entered Road 2.
+Time 1210: Vehicle 595 left Road 2.
+Time 1210: Vehicle 770 left Road 2.
+Time 1210: Vehicle 702 left Road 2.
+Time 1210: Vehicle 692 left Road 2.
+Time 1210: Vehicle 709 left Road 2.
+Time 1211: Road 3 is FULL.
+Time 1212: Vehicle 118 entered Road 1.
+Time 1213: Vehicle 717 entered Road 2.
+Time 1214: Vehicle 926 entered Road 2.
+Time 1215: Vehicle 354 entered Road 1.
+Time 1216: Road 3 is FULL.
+Time 1217: Vehicle 221 entered Road 1.
+Time 1218: Vehicle 510 entered Road 2.
+Time 1219: Vehicle 495 entered Road 2.
+Time 1220: Road 3 is FULL.
+Time 1220: Vehicle 1773 left Road 3.
+Time 1220: Vehicle 1702 left Road 3.
+Time 1220: Vehicle 1673 left Road 3.
+Time 1220: Vehicle 1541 left Road 3.
+Time 1220: Vehicle 1760 left Road 3.
+Time 1221: Vehicle 1501 entered Road 3.
+Time 1222: Vehicle 1583 entered Road 3.
+Time 1223: Vehicle 588 entered Road 2.
+Time 1224: Vehicle 1728 entered Road 3.
+Time 1225: Vehicle 814 entered Road 2.
+Time 1226: Vehicle 1448 entered Road 3.
+Time 1227: Vehicle 1512 entered Road 3.
+Time 1228: Vehicle 55 entered Road 1.
+Time 1229: Vehicle 612 entered Road 2.
+Time 1230: Vehicle 494 entered Road 2.
+Time 1230: Vehicle 270 left Road 1.
+Time 1230: Vehicle 320 left Road 1.
+Time 1230: Vehicle 481 left Road 1.
+Time 1230: Vehicle 368 left Road 1.
+Time 1230: Vehicle 197 left Road 1.
+Time 1231: Road 3 is FULL.
+Time 1232: Road 3 is FULL.
+Time 1233: Road 3 is FULL.
+Time 1234: Vehicle 785 entered Road 2.
+Time 1235: Road 3 is FULL.
+Time 1236: Road 3 is FULL.
+Time 1237: Vehicle 157 entered Road 1.
+Time 1238: Road 3 is FULL.
+Time 1239: Vehicle 634 entered Road 2.
+Time 1240: Road 3 is FULL.
+Time 1240: Vehicle 710 left Road 2.
+Time 1240: Vehicle 777 left Road 2.
+Time 1240: Vehicle 979 left Road 2.
+Time 1240: Vehicle 742 left Road 2.
+Time 1240: Vehicle 917 left Road 2.
+Time 1241: Vehicle 753 entered Road 2.
+Time 1242: Road 3 is FULL.
+Time 1243: Road 3 is FULL.
+Time 1244: Vehicle 48 entered Road 1.
+Time 1245: Vehicle 174 entered Road 1.
+Time 1246: Vehicle 410 entered Road 1.
+Time 1247: Road 3 is FULL.
+Time 1248: Road 3 is FULL.
+Time 1249: Road 3 is FULL.
+Time 1250: Vehicle 408 entered Road 1.
+Time 1250: Vehicle 1659 left Road 3.
+Time 1250: Vehicle 1400 left Road 3.
+Time 1250: Vehicle 1686 left Road 3.
+Time 1250: Vehicle 1184 left Road 3.
+Time 1250: Vehicle 1458 left Road 3.
+Time 1251: Vehicle 578 entered Road 2.
+Time 1252: Vehicle 1612 entered Road 3.
+Time 1253: Vehicle 1301 entered Road 3.
+Time 1254: Vehicle 1336 entered Road 3.
+Time 1255: Vehicle 1401 entered Road 3.
+Time 1256: Vehicle 77 entered Road 1.
+Time 1257: Vehicle 515 entered Road 2.
+Time 1258: Vehicle 592 entered Road 2.
+Time 1259: Vehicle 733 entered Road 2.
+Time 1260: Vehicle 1370 entered Road 3.
+Time 1260: Vehicle 426 left Road 1.
+Time 1260: Vehicle 116 left Road 1.
+Time 1260: Vehicle 400 left Road 1.
+Time 1260: Vehicle 427 left Road 1.
+Time 1260: Vehicle 460 left Road 1.
+Time 1261: Road 3 is FULL.
+Time 1262: Road 2 is FULL.
+Time 1263: Road 2 is FULL.
+Time 1264: Road 3 is FULL.
+Time 1265: Road 3 is FULL.
+Time 1266: Road 2 is FULL.
+Time 1267: Road 3 is FULL.
+Time 1268: Road 3 is FULL.
+Time 1269: Road 2 is FULL.
+Time 1270: Road 2 is FULL.
+Time 1270: Vehicle 630 left Road 2.
+Time 1270: Vehicle 686 left Road 2.
+Time 1270: Vehicle 784 left Road 2.
+Time 1270: Vehicle 1023 left Road 2.
+Time 1270: Vehicle 1041 left Road 2.
+Time 1271: Road 3 is FULL.
+Time 1272: Vehicle 231 entered Road 1.
+Time 1273: Vehicle 808 entered Road 2.
+Time 1274: Vehicle 844 entered Road 2.
+Time 1275: Vehicle 1093 entered Road 2.
+Time 1276: Road 3 is FULL.
+Time 1277: Road 3 is FULL.
+Time 1278: Vehicle 480 entered Road 1.
+Time 1279: Road 3 is FULL.
+Time 1280: Vehicle 33 entered Road 1.
+Time 1280: Vehicle 1670 left Road 3.
+Time 1280: Vehicle 1781 left Road 3.
+Time 1280: Vehicle 1577 left Road 3.
+Time 1280: Vehicle 1588 left Road 3.
+Time 1280: Vehicle 1715 left Road 3.
+Time 1281: Vehicle 1572 entered Road 3.
+Time 1282: Vehicle 1307 entered Road 3.
+Time 1283: Vehicle 527 entered Road 2.
+Time 1284: Vehicle 715 entered Road 2.
+Time 1285: Road 2 is FULL.
+Time 1286: Vehicle 349 entered Road 1.
+Time 1287: Vehicle 1248 entered Road 3.
+Time 1288: Vehicle 1623 entered Road 3.
+Time 1289: Vehicle 1219 entered Road 3.
+Time 1290: Road 3 is FULL.
+Time 1290: Vehicle 200 left Road 1.
+Time 1290: Vehicle 325 left Road 1.
+Time 1290: Vehicle 296 left Road 1.
+Time 1290: Vehicle 416 left Road 1.
+Time 1290: Vehicle 94 left Road 1.
+Time 1291: Road 3 is FULL.
+Time 1292: Road 3 is FULL.
+Time 1293: Road 3 is FULL.
+Time 1294: Road 3 is FULL.
+Time 1295: Road 3 is FULL.
+Time 1296: Road 2 is FULL.
+Time 1297: Road 2 is FULL.
+Time 1298: Road 2 is FULL.
+Time 1299: Road 3 is FULL.
+Time 1300: Road 3 is FULL.
+Time 1300: Vehicle 1006 left Road 2.
+Time 1300: Vehicle 790 left Road 2.
+Time 1300: Vehicle 708 left Road 2.
+Time 1300: Vehicle 688 left Road 2.
+Time 1300: Vehicle 641 left Road 2.
+Time 1301: Road 3 is FULL.
+Time 1302: Road 3 is FULL.
+Time 1303: Road 3 is FULL.
+Time 1304: Vehicle 491 entered Road 1.
+Time 1305: Vehicle 614 entered Road 2.
+Time 1306: Road 3 is FULL.
+Time 1307: Road 3 is FULL.
+Time 1308: Road 3 is FULL.
+Time 1309: Vehicle 1084 entered Road 2.
+Time 1310: Vehicle 632 entered Road 2.
+Time 1310: Vehicle 1538 left Road 3.
+Time 1310: Vehicle 1666 left Road 3.
+Time 1310: Vehicle 1159 left Road 3.
+Time 1310: Vehicle 1227 left Road 3.
+Time 1310: Vehicle 1700 left Road 3.
+Time 1311: Vehicle 1088 entered Road 2.
+Time 1312: Vehicle 1360 entered Road 3.
+Time 1313: Vehicle 1166 entered Road 3.
+Time 1314: Vehicle 636 entered Road 2.
+Time 1315: Road 2 is FULL.
+Time 1316: Road 2 is FULL.
+Time 1317: Vehicle 1228 entered Road 3.
+Time 1318: Vehicle 1775 entered Road 3.
+Time 1319: Road 2 is FULL.
+Time 1320: Road 2 is FULL.
+Time 1320: Vehicle 188 left Road 1.
+Time 1320: Vehicle 15 left Road 1.
+Time 1320: Vehicle 327 left Road 1.
+Time 1320: Vehicle 440 left Road 1.
+Time 1320: Vehicle 326 left Road 1.
+Time 1321: Road 2 is FULL.
+Time 1322: Road 2 is FULL.
+Time 1323: Vehicle 1302 entered Road 3.
+Time 1324: Road 3 is FULL.
+Time 1325: Vehicle 155 entered Road 1.
+Time 1326: Road 2 is FULL.
+Time 1327: Road 2 is FULL.
+Time 1328: Road 3 is FULL.
+Time 1329: Road 3 is FULL.
+Time 1330: Vehicle 237 entered Road 1.
+Time 1330: Vehicle 731 left Road 2.
+Time 1330: Vehicle 835 left Road 2.
+Time 1330: Vehicle 502 left Road 2.
+Time 1330: Vehicle 661 left Road 2.
+Time 1330: Vehicle 821 left Road 2.
+Time 1331: Vehicle 444 entered Road 1.
+Time 1332: Vehicle 1034 entered Road 2.
+Time 1333: Vehicle 831 entered Road 2.
+Time 1334: Vehicle 310 entered Road 1.
+Time 1335: Vehicle 865 entered Road 2.
+Time 1336: Road 3 is FULL.
+Time 1337: Vehicle 704 entered Road 2.
+Time 1338: Vehicle 465 entered Road 1.
+Time 1339: Road 3 is FULL.
+Time 1340: Vehicle 663 entered Road 2.
+Time 1340: Vehicle 1797 left Road 3.
+Time 1340: Vehicle 1261 left Road 3.
+Time 1340: Vehicle 1201 left Road 3.
+Time 1340: Vehicle 1342 left Road 3.
+Time 1340: Vehicle 1783 left Road 3.
+Time 1341: Road 2 is FULL.
+Time 1342: Vehicle 1571 entered Road 3.
+Time 1343: Vehicle 279 entered Road 1.
+Time 1344: Vehicle 1140 entered Road 3.
+Time 1345: Vehicle 8 entered Road 1.
+Time 1346: Road 2 is FULL.
+Time 1347: Road 2 is FULL.
+Time 1348: Vehicle 370 entered Road 1.
+Time 1349: Vehicle 1329 entered Road 3.
+Time 1350: Road 2 is FULL.
+Time 1350: Vehicle 277 left Road 1.
+Time 1350: Vehicle 302 left Road 1.
+Time 1350: Vehicle 190 left Road 1.
+Time 1350: Vehicle 347 left Road 1.
+Time 1350: Vehicle 36 left Road 1.
+Time 1351: Vehicle 1535 entered Road 3.
+Time 1352: Road 2 is FULL.
+Time 1353: Road 2 is FULL.
+Time 1354: Road 2 is FULL.
+Time 1355: Vehicle 1696 entered Road 3.
+Time 1356: Vehicle 280 entered Road 1.
+Time 1357: Vehicle 307 entered Road 1.
+Time 1358: Road 3 is FULL.
+Time 1359: Road 3 is FULL.
+Time 1360: Road 2 is FULL.
+Time 1360: Vehicle 689 left Road 2.
+Time 1360: Vehicle 966 left Road 2.
+Time 1360: Vehicle 600 left Road 2.
+Time 1360: Vehicle 988 left Road 2.
+Time 1360: Vehicle 980 left Road 2.
+Time 1361: Road 3 is FULL.
+Time 1362: Vehicle 774 entered Road 2.
+Time 1363: Vehicle 125 entered Road 1.
+Time 1364: Vehicle 184 entered Road 1.
+Time 1365: Road 3 is FULL.
+Time 1366: Vehicle 681 entered Road 2.
+Time 1367: Vehicle 189 entered Road 1.
+Time 1368: Road 3 is FULL.
+Time 1369: Road 3 is FULL.
+Time 1370: Road 3 is FULL.
+Time 1370: Vehicle 1117 left Road 3.
+Time 1370: Vehicle 1338 left Road 3.
+Time 1370: Vehicle 1109 left Road 3.
+Time 1370: Vehicle 1516 left Road 3.
+Time 1370: Vehicle 1280 left Road 3.
+Time 1371: Vehicle 11 entered Road 1.
+Time 1372: Vehicle 163 entered Road 1.
+Time 1373: Vehicle 1036 entered Road 2.
+Time 1374: Vehicle 539 entered Road 2.
+Time 1375: Vehicle 1753 entered Road 3.
+Time 1376: Vehicle 1028 entered Road 2.
+Time 1377: Vehicle 1257 entered Road 3.
+Time 1378: Vehicle 1705 entered Road 3.
+Time 1379: Vehicle 297 entered Road 1.
+Time 1380: Road 2 is FULL.
+Time 1380: Vehicle 22 left Road 1.
+Time 1380: Vehicle 313 left Road 1.
+Time 1380: Vehicle 333 left Road 1.
+Time 1380: Vehicle 487 left Road 1.
+Time 1380: Vehicle 344 left Road 1.
+Time 1381: Road 2 is FULL.
+Time 1382: Vehicle 1475 entered Road 3.
+Time 1383: Vehicle 83 entered Road 1.
+Time 1384: Vehicle 1139 entered Road 3.
+Time 1385: Vehicle 192 entered Road 1.
+Time 1386: Vehicle 107 entered Road 1.
+Time 1387: Road 2 is FULL.
+Time 1388: Road 2 is FULL.
+Time 1389: Vehicle 179 entered Road 1.
+Time 1390: Road 2 is FULL.
+Time 1390: Vehicle 542 left Road 2.
+Time 1390: Vehicle 720 left Road 2.
+Time 1390: Vehicle 744 left Road 2.
+Time 1390: Vehicle 869 left Road 2.
+Time 1390: Vehicle 672 left Road 2.
+Time 1391: Vehicle 933 entered Road 2.
+Time 1392: Road 3 is FULL.
+Time 1393: Road 3 is FULL.
+Time 1394: Road 3 is FULL.
+Time 1395: Road 3 is FULL.
+Time 1396: Vehicle 175 entered Road 1.
+Time 1397: Vehicle 516 entered Road 2.
+Time 1398: Vehicle 817 entered Road 2.
+Time 1399: Road 3 is FULL.
+Time 1400: Vehicle 387 entered Road 1.
+Time 1400: Vehicle 1695 left Road 3.
+Time 1400: Vehicle 1341 left Road 3.
+Time 1400: Vehicle 1734 left Road 3.
+Time 1400: Vehicle 1364 left Road 3.
+Time 1400: Vehicle 1616 left Road 3.
+Time 1401: Vehicle 854 entered Road 2.
+Time 1402: Vehicle 378 entered Road 1.
+Time 1403: Vehicle 712 entered Road 2.
+Time 1404: Vehicle 1179 entered Road 3.
+Time 1405: Vehicle 1480 entered Road 3.
+Time 1406: Vehicle 1656 entered Road 3.
+Time 1407: Road 2 is FULL.
+Time 1408: Vehicle 23 entered Road 1.
+Time 1409: Vehicle 202 entered Road 1.
+Time 1410: Vehicle 1747 entered Road 3.
+Time 1410: Vehicle 26 left Road 1.
+Time 1410: Vehicle 46 left Road 1.
+Time 1410: Vehicle 223 left Road 1.
+Time 1410: Vehicle 73 left Road 1.
+Time 1410: Vehicle 363 left Road 1.
+Time 1411: Vehicle 412 entered Road 1.
+Time 1412: Road 2 is FULL.
+Time 1413: Vehicle 1735 entered Road 3.
+Time 1414: Vehicle 284 entered Road 1.
+Time 1415: Road 2 is FULL.
+Time 1416: Vehicle 236 entered Road 1.
+Time 1417: Vehicle 428 entered Road 1.
+Time 1418: Vehicle 256 entered Road 1.
+Time 1419: Road 2 is FULL.
+Time 1420: Vehicle 266 entered Road 1.
+Time 1420: Vehicle 1100 left Road 2.
+Time 1420: Vehicle 809 left Road 2.
+Time 1420: Vehicle 649 left Road 2.
+Time 1420: Vehicle 768 left Road 2.
+Time 1420: Vehicle 1025 left Road 2.
+Time 1421: Road 3 is FULL.
+Time 1422: Vehicle 925 entered Road 2.
+Time 1423: Vehicle 977 entered Road 2.
+Time 1424: Road 3 is FULL.
+Time 1425: Road 3 is FULL.
+Time 1426: Road 3 is FULL.
+Time 1427: Vehicle 144 entered Road 1.
+Time 1428: Vehicle 775 entered Road 2.
+Time 1429: Vehicle 93 entered Road 1.
+Time 1430: Road 3 is FULL.
+Time 1430: Vehicle 1328 left Road 3.
+Time 1430: Vehicle 1555 left Road 3.
+Time 1430: Vehicle 1581 left Road 3.
+Time 1430: Vehicle 1440 left Road 3.
+Time 1430: Vehicle 1435 left Road 3.
+Time 1431: Vehicle 262 entered Road 1.
+Time 1432: Vehicle 493 entered Road 1.
+Time 1433: Vehicle 629 entered Road 2.
+Time 1434: Vehicle 911 entered Road 2.
+Time 1435: Road 2 is FULL.
+Time 1436: Vehicle 1125 entered Road 3.
+Time 1437: Vehicle 1232 entered Road 3.
+Time 1438: Vehicle 255 entered Road 1.
+Time 1439: Road 2 is FULL.
+Time 1440: Vehicle 1457 entered Road 3.
+Time 1440: Vehicle 87 left Road 1.
+Time 1440: Vehicle 318 left Road 1.
+Time 1440: Vehicle 409 left Road 1.
+Time 1440: Vehicle 434 left Road 1.
+Time 1440: Vehicle 112 left Road 1.
+Time 1441: Road 2 is FULL.
+Time 1442: Road 2 is FULL.
+Time 1443: Vehicle 337 entered Road 1.
+Time 1444: Vehicle 1729 entered Road 3.
+Time 1445: Vehicle 245 entered Road 1.
+Time 1446: Vehicle 1246 entered Road 3.
+Time 1447: Vehicle 186 entered Road 1.
+Time 1448: Vehicle 315 entered Road 1.
+Time 1449: Road 2 is FULL.
+Time 1450: Road 2 is FULL.
+Time 1450: Vehicle 547 left Road 2.
+Time 1450: Vehicle 590 left Road 2.
+Time 1450: Vehicle 687 left Road 2.
+Time 1450: Vehicle 779 left Road 2.
+Time 1450: Vehicle 860 left Road 2.
+Time 1451: Vehicle 846 entered Road 2.
+Time 1452: Road 3 is FULL.
+Time 1453: Road 3 is FULL.
+Time 1454: Vehicle 589 entered Road 2.
+Time 1455: Vehicle 154 entered Road 1.
+Time 1456: Road 3 is FULL.
+Time 1457: Vehicle 242 entered Road 1.
+Time 1458: Vehicle 690 entered Road 2.
+Time 1459: Vehicle 900 entered Road 2.
+Time 1460: Vehicle 138 entered Road 1.
+Time 1460: Vehicle 1548 left Road 3.
+Time 1460: Vehicle 1292 left Road 3.
+Time 1460: Vehicle 1198 left Road 3.
+Time 1460: Vehicle 1343 left Road 3.
+Time 1460: Vehicle 1380 left Road 3.
+Time 1461: Vehicle 391 entered Road 1.
+Time 1462: Vehicle 662 entered Road 2.
+Time 1463: Road 2 is FULL.
+Time 1464: Vehicle 1395 entered Road 3.
+Time 1465: Vehicle 1690 entered Road 3.
+Time 1466: Road 2 is FULL.
+Time 1467: Vehicle 1748 entered Road 3.
+Time 1468: Vehicle 1643 entered Road 3.
+Time 1469: Road 2 is FULL.
+Time 1470: Road 2 is FULL.
+Time 1470: Vehicle 433 left Road 1.
+Time 1470: Vehicle 311 left Road 1.
+Time 1470: Vehicle 89 left Road 1.
+Time 1470: Vehicle 278 left Road 1.
+Time 1470: Vehicle 216 left Road 1.
+Time 1471: Vehicle 259 entered Road 1.
+Time 1472: Vehicle 1443 entered Road 3.
+Time 1473: Road 3 is FULL.
+Time 1474: Road 2 is FULL.
+Time 1475: Road 3 is FULL.
+Time 1476: Road 2 is FULL.
+Time 1477: Road 3 is FULL.
+Time 1478: Road 3 is FULL.
+Time 1479: Vehicle 375 entered Road 1.
+Time 1480: Road 2 is FULL.
+Time 1480: Vehicle 947 left Road 2.
+Time 1480: Vehicle 960 left Road 2.
+Time 1480: Vehicle 1010 left Road 2.
+Time 1480: Vehicle 929 left Road 2.
+Time 1480: Vehicle 1043 left Road 2.
+Time 1481: Vehicle 945 entered Road 2.
+Time 1482: Vehicle 268 entered Road 1.
+Time 1483: Road 3 is FULL.
+Time 1484: Road 3 is FULL.
+Time 1485: Road 3 is FULL.
+Time 1486: Road 3 is FULL.
+Time 1487: Vehicle 633 entered Road 2.
+Time 1488: Vehicle 536 entered Road 2.
+Time 1489: Vehicle 569 entered Road 2.
+Time 1490: Vehicle 139 entered Road 1.
+Time 1490: Vehicle 1406 left Road 3.
+Time 1490: Vehicle 1451 left Road 3.
+Time 1490: Vehicle 1657 left Road 3.
+Time 1490: Vehicle 1345 left Road 3.
+Time 1490: Vehicle 1352 left Road 3.
+Time 1491: Vehicle 158 entered Road 1.
+Time 1492: Vehicle 146 entered Road 1.
+Time 1493: Vehicle 573 entered Road 2.
+Time 1494: Road 2 is FULL.
+Time 1495: Road 2 is FULL.
+Time 1496: Vehicle 1544 entered Road 3.
+Time 1497: Vehicle 177 entered Road 1.
+Time 1498: Vehicle 1386 entered Road 3.
+Time 1499: Road 2 is FULL.
+Time 1500: Vehicle 1122 entered Road 3.
+Time 1500: Vehicle 100 left Road 1.
+Time 1500: Vehicle 447 left Road 1.
+Time 1500: Vehicle 147 left Road 1.
+Time 1500: Vehicle 121 left Road 1.
+Time 1500: Vehicle 295 left Road 1.
+Time 1501: Road 2 is FULL.
+Time 1502: Vehicle 39 entered Road 1.
+Time 1503: Road 2 is FULL.
+Time 1504: Road 2 is FULL.
+Time 1505: Road 2 is FULL.
+Time 1506: Road 2 is FULL.
+Time 1507: Road 2 is FULL.
+Time 1508: Road 2 is FULL.
+Time 1509: Road 2 is FULL.
+Time 1510: Road 2 is FULL.
+Time 1510: Vehicle 601 left Road 2.
+Time 1510: Vehicle 812 left Road 2.
+Time 1510: Vehicle 718 left Road 2.
+Time 1510: Vehicle 1049 left Road 2.
+Time 1510: Vehicle 741 left Road 2.
+Time 1511: Vehicle 140 entered Road 1.
+Time 1512: Vehicle 397 entered Road 1.
+Time 1513: Vehicle 1392 entered Road 3.
+Time 1514: Vehicle 170 entered Road 1.
+Time 1515: Vehicle 1373 entered Road 3.
+Time 1516: Road 3 is FULL.
+Time 1517: Road 3 is FULL.
+Time 1518: Road 3 is FULL.
+Time 1519: Road 3 is FULL.
+Time 1520: Vehicle 111 entered Road 1.
+Time 1520: Vehicle 1593 left Road 3.
+Time 1520: Vehicle 1787 left Road 3.
+Time 1520: Vehicle 1250 left Road 3.
+Time 1520: Vehicle 1294 left Road 3.
+Time 1520: Vehicle 1701 left Road 3.
+Time 1521: Vehicle 1293 entered Road 3.
+Time 1522: Vehicle 586 entered Road 2.
+Time 1523: Vehicle 593 entered Road 2.
+Time 1524: Vehicle 1183 entered Road 3.
+Time 1525: Vehicle 1185 entered Road 3.
+Time 1526: Vehicle 1562 entered Road 3.
+Time 1527: Vehicle 28 entered Road 1.
+Time 1528: Vehicle 372 entered Road 1.
+Time 1529: Vehicle 645 entered Road 2.
+Time 1530: Vehicle 1682 entered Road 3.
+Time 1530: Vehicle 399 left Road 1.
+Time 1530: Vehicle 56 left Road 1.
+Time 1530: Vehicle 210 left Road 1.
+Time 1530: Vehicle 143 left Road 1.
+Time 1530: Vehicle 392 left Road 1.
+Time 1531: Road 3 is FULL.
+Time 1532: Road 3 is FULL.
+Time 1533: Vehicle 95 entered Road 1.
+Time 1534: Vehicle 726 entered Road 2.
+Time 1535: Vehicle 1066 entered Road 2.
+Time 1536: Vehicle 110 entered Road 1.
+Time 1537: Road 3 is FULL.
+Time 1538: Road 3 is FULL.
+Time 1539: Road 3 is FULL.
+Time 1540: Road 3 is FULL.
+Time 1540: Vehicle 927 left Road 2.
+Time 1540: Vehicle 984 left Road 2.
+Time 1540: Vehicle 858 left Road 2.
+Time 1540: Vehicle 792 left Road 2.
+Time 1540: Vehicle 828 left Road 2.
+Time 1541: Vehicle 611 entered Road 2.
+Time 1542: Vehicle 826 entered Road 2.
+Time 1543: Road 3 is FULL.
+Time 1544: Vehicle 401 entered Road 1.
+Time 1545: Vehicle 885 entered Road 2.
+Time 1546: Vehicle 1037 entered Road 2.
+Time 1547: Road 3 is FULL.
+Time 1548: Vehicle 419 entered Road 1.
+Time 1549: Vehicle 580 entered Road 2.
+Time 1550: Road 3 is FULL.
+Time 1550: Vehicle 1641 left Road 3.
+Time 1550: Vehicle 1106 left Road 3.
+Time 1550: Vehicle 1208 left Road 3.
+Time 1550: Vehicle 1266 left Road 3.
+Time 1550: Vehicle 1634 left Road 3.
+Time 1551: Vehicle 42 entered Road 1.
+Time 1552: Road 2 is FULL.
+Time 1553: Road 2 is FULL.
+Time 1554: Vehicle 1141 entered Road 3.
+Time 1555: Road 2 is FULL.
+Time 1556: Vehicle 166 entered Road 1.
+Time 1557: Road 2 is FULL.
+Time 1558: Vehicle 1710 entered Road 3.
+Time 1559: Vehicle 1230 entered Road 3.
+Time 1560: Road 2 is FULL.
+Time 1560: Vehicle 437 left Road 1.
+Time 1560: Vehicle 403 left Road 1.
+Time 1560: Vehicle 13 left Road 1.
+Time 1560: Vehicle 324 left Road 1.
+Time 1560: Vehicle 50 left Road 1.
+Time 1561: Road 2 is FULL.
+Time 1562: Vehicle 1563 entered Road 3.
+Time 1563: Vehicle 1782 entered Road 3.
+Time 1564: Road 3 is FULL.
+Time 1565: Road 3 is FULL.
+Time 1566: Vehicle 308 entered Road 1.
+Time 1567: Road 2 is FULL.
+Time 1568: Road 2 is FULL.
+Time 1569: Road 2 is FULL.
+Time 1570: Road 2 is FULL.
+Time 1570: Vehicle 1102 left Road 2.
+Time 1570: Vehicle 535 left Road 2.
+Time 1570: Vehicle 773 left Road 2.
+Time 1570: Vehicle 579 left Road 2.
+Time 1570: Vehicle 674 left Road 2.
+Time 1571: Vehicle 934 entered Road 2.
+Time 1572: Vehicle 519 entered Road 2.
+Time 1573: Road 3 is FULL.
+Time 1574: Road 3 is FULL.
+Time 1575: Vehicle 540 entered Road 2.
+Time 1576: Vehicle 970 entered Road 2.
+Time 1577: Road 3 is FULL.
+Time 1578: Vehicle 72 entered Road 1.
+Time 1579: Vehicle 445 entered Road 1.
+Time 1580: Road 3 is FULL.
+Time 1580: Vehicle 1720 left Road 3.
+Time 1580: Vehicle 1822 left Road 3.
+Time 1580: Vehicle 1493 left Road 3.
+Time 1580: Vehicle 1165 left Road 3.
+Time 1580: Vehicle 1770 left Road 3.
+Time 1581: Vehicle 853 entered Road 2.
+Time 1582: Road 2 is FULL.
+Time 1583: Vehicle 34 entered Road 1.
+Time 1584: Vehicle 164 entered Road 1.
+Time 1585: Vehicle 1372 entered Road 3.
+Time 1586: Vehicle 346 entered Road 1.
+Time 1587: Vehicle 1522 entered Road 3.
+Time 1588: Vehicle 1285 entered Road 3.
+Time 1589: Vehicle 60 entered Road 1.
+Time 1590: Vehicle 1160 entered Road 3.
+Time 1590: Vehicle 233 left Road 1.
+Time 1590: Vehicle 332 left Road 1.
+Time 1590: Vehicle 421 left Road 1.
+Time 1590: Vehicle 275 left Road 1.
+Time 1590: Vehicle 287 left Road 1.
+Time 1591: Road 2 is FULL.
+Time 1592: Vehicle 16 entered Road 1.
+Time 1593: Road 2 is FULL.
+Time 1594: Vehicle 1155 entered Road 3.
+Time 1595: Road 3 is FULL.
+Time 1596: Road 2 is FULL.
+Time 1597: Road 3 is FULL.
+Time 1598: Road 3 is FULL.
+Time 1599: Vehicle 250 entered Road 1.
+Time 1600: Vehicle 272 entered Road 1.
+Time 1600: Vehicle 932 left Road 2.
+Time 1600: Vehicle 1026 left Road 2.
+Time 1600: Vehicle 896 left Road 2.
+Time 1600: Vehicle 528 left Road 2.
+Time 1600: Vehicle 675 left Road 2.
+Time 1601: Vehicle 513 entered Road 2.
+Time 1602: Vehicle 249 entered Road 1.
+Time 1603: Vehicle 364 entered Road 1.
+Time 1604: Vehicle 479 entered Road 1.
+Time 1605: Road 3 is FULL.
+Time 1606: Road 3 is FULL.
+Time 1607: Vehicle 456 entered Road 1.
+Time 1608: Vehicle 815 entered Road 2.
+Time 1609: Vehicle 432 entered Road 1.
+Time 1610: Road 3 is FULL.
+Time 1610: Vehicle 1413 left Road 3.
+Time 1610: Vehicle 1543 left Road 3.
+Time 1610: Vehicle 1396 left Road 3.
+Time 1610: Vehicle 1504 left Road 3.
+Time 1610: Vehicle 1286 left Road 3.
+Time 1611: Vehicle 14 entered Road 1.
+Time 1612: Vehicle 903 entered Road 2.
+Time 1613: Vehicle 1355 entered Road 3.
+Time 1614: Vehicle 1391 entered Road 3.
+Time 1615: Vehicle 1262 entered Road 3.
+Time 1616: Vehicle 1617 entered Road 3.
+Time 1617: Vehicle 5 entered Road 1.
+Time 1618: Vehicle 1222 entered Road 3.
+Time 1619: Vehicle 359 entered Road 1.
+Time 1620: Vehicle 609 entered Road 2.
+Time 1620: Vehicle 423 left Road 1.
+Time 1620: Vehicle 160 left Road 1.
+Time 1620: Vehicle 133 left Road 1.
+Time 1620: Vehicle 478 left Road 1.
+Time 1620: Vehicle 252 left Road 1.
+Time 1621: Vehicle 638 entered Road 2.
+Time 1622: Road 2 is FULL.
+Time 1623: Road 3 is FULL.
+Time 1624: Road 3 is FULL.
+Time 1625: Vehicle 455 entered Road 1.
+Time 1626: Road 3 is FULL.
+Time 1627: Road 3 is FULL.
+Time 1628: Road 3 is FULL.
+Time 1629: Road 2 is FULL.
+Time 1630: Vehicle 30 entered Road 1.
+Time 1630: Vehicle 605 left Road 2.
+Time 1630: Vehicle 568 left Road 2.
+Time 1630: Vehicle 716 left Road 2.
+Time 1630: Vehicle 953 left Road 2.
+Time 1630: Vehicle 1070 left Road 2.
+Time 1631: Vehicle 656 entered Road 2.
+Time 1632: Vehicle 40 entered Road 1.
+Time 1633: Vehicle 248 entered Road 1.
+Time 1634: Road 3 is FULL.
+Time 1635: Vehicle 802 entered Road 2.
+Time 1636: Vehicle 212 entered Road 1.
+Time 1637: Vehicle 369 entered Road 1.
+Time 1638: Vehicle 485 entered Road 1.
+Time 1639: Vehicle 329 entered Road 1.
+Time 1640: Vehicle 648 entered Road 2.
+Time 1640: Vehicle 1156 left Road 3.
+Time 1640: Vehicle 1524 left Road 3.
+Time 1640: Vehicle 1549 left Road 3.
+Time 1640: Vehicle 1553 left Road 3.
+Time 1640: Vehicle 1144 left Road 3.
+Time 1641: Vehicle 771 entered Road 2.
+Time 1642: Vehicle 1340 entered Road 3.
+Time 1643: Vehicle 537 entered Road 2.
+Time 1644: Vehicle 124 entered Road 1.
+Time 1645: Road 2 is FULL.
+Time 1646: Vehicle 1421 entered Road 3.
+Time 1647: Vehicle 1759 entered Road 3.
+Time 1648: Road 2 is FULL.
+Time 1649: Road 2 is FULL.
+Time 1650: Vehicle 1120 entered Road 3.
+Time 1650: Vehicle 450 left Road 1.
+Time 1650: Vehicle 21 left Road 1.
+Time 1650: Vehicle 388 left Road 1.
+Time 1650: Vehicle 289 left Road 1.
+Time 1650: Vehicle 265 left Road 1.
+Time 1651: Vehicle 299 entered Road 1.
+Time 1652: Vehicle 1779 entered Road 3.
+Time 1653: Road 3 is FULL.
+Time 1654: Road 3 is FULL.
+Time 1655: Road 2 is FULL.
+Time 1656: Road 2 is FULL.
+Time 1657: Road 2 is FULL.
+Time 1658: Vehicle 222 entered Road 1.
+Time 1659: Road 2 is FULL.
+Time 1660: Road 2 is FULL.
+Time 1660: Vehicle 546 left Road 2.
+Time 1660: Vehicle 827 left Road 2.
+Time 1660: Vehicle 559 left Road 2.
+Time 1660: Vehicle 738 left Road 2.
+Time 1660: Vehicle 594 left Road 2.
+Time 1661: Vehicle 88 entered Road 1.
+Time 1662: Vehicle 134 entered Road 1.
+Time 1663: Vehicle 182 entered Road 1.
+Time 1664: Vehicle 1099 entered Road 2.
+Time 1665: Vehicle 602 entered Road 2.
+Time 1666: Vehicle 749 entered Road 2.
+Time 1667: Vehicle 989 entered Road 2.
+Time 1668: Road 3 is FULL.
+Time 1669: Vehicle 6 entered Road 1.
+Time 1670: Road 3 is FULL.
+Time 1670: Vehicle 1331 left Road 3.
+Time 1670: Vehicle 1398 left Road 3.
+Time 1670: Vehicle 1344 left Road 3.
+Time 1670: Vehicle 1200 left Road 3.
+Time 1670: Vehicle 1594 left Road 3.
+Time 1671: Vehicle 123 entered Road 1.
+Time 1672: Vehicle 241 entered Road 1.
+Time 1673: Vehicle 323 entered Road 1.
+Time 1674: Vehicle 894 entered Road 2.
+Time 1675: Road 2 is FULL.
+Time 1676: Vehicle 1801 entered Road 3.
+Time 1677: Vehicle 1299 entered Road 3.
+Time 1678: Vehicle 1722 entered Road 3.
+Time 1679: Vehicle 371 entered Road 1.
+Time 1680: Road 2 is FULL.
+Time 1680: Vehicle 129 left Road 1.
+Time 1680: Vehicle 226 left Road 1.
+Time 1680: Vehicle 483 left Road 1.
+Time 1680: Vehicle 58 left Road 1.
+Time 1680: Vehicle 283 left Road 1.
+Time 1681: Vehicle 1334 entered Road 3.
+Time 1682: Vehicle 1393 entered Road 3.
+Time 1683: Vehicle 31 entered Road 1.
+Time 1684: Road 2 is FULL.
+Time 1685: Vehicle 37 entered Road 1.
+Time 1686: Road 3 is FULL.
+Time 1687: Road 2 is FULL.
+Time 1688: Road 3 is FULL.
+Time 1689: Road 3 is FULL.
+Time 1690: Vehicle 239 entered Road 1.
+Time 1690: Vehicle 786 left Road 2.
+Time 1690: Vehicle 1083 left Road 2.
+Time 1690: Vehicle 930 left Road 2.
+Time 1690: Vehicle 607 left Road 2.
+Time 1690: Vehicle 659 left Road 2.
+Time 1691: Road 3 is FULL.
+Time 1692: Vehicle 606 entered Road 2.
+Time 1693: Road 3 is FULL.
+Time 1694: Vehicle 640 entered Road 2.
+Time 1695: Vehicle 181 entered Road 1.
+Time 1696: Vehicle 474 entered Road 1.
+Time 1697: Vehicle 819 entered Road 2.
+Time 1698: Road 3 is FULL.
+Time 1699: Vehicle 938 entered Road 2.
+Time 1700: Road 3 is FULL.
+Time 1700: Vehicle 1706 left Road 3.
+Time 1700: Vehicle 1211 left Road 3.
+Time 1700: Vehicle 1712 left Road 3.
+Time 1700: Vehicle 1119 left Road 3.
+Time 1700: Vehicle 1565 left Road 3.
+Time 1701: Vehicle 209 entered Road 1.
+Time 1702: Vehicle 918 entered Road 2.
+Time 1703: Vehicle 137 entered Road 1.
+Time 1704: Road 2 is FULL.
+Time 1705: Vehicle 1180 entered Road 3.
+Time 1706: Vehicle 214 entered Road 1.
+Time 1707: Vehicle 1213 entered Road 3.
+Time 1708: Vehicle 35 entered Road 1.
+Time 1709: Vehicle 1639 entered Road 3.
+Time 1710: Road 2 is FULL.
+Time 1710: Vehicle 218 left Road 1.
+Time 1710: Vehicle 136 left Road 1.
+Time 1710: Vehicle 194 left Road 1.
+Time 1710: Vehicle 488 left Road 1.
+Time 1710: Vehicle 273 left Road 1.
+Time 1711: Road 2 is FULL.
+Time 1712: Vehicle 1118 entered Road 3.
+Time 1713: Vehicle 1275 entered Road 3.
+Time 1714: Road 3 is FULL.
+Time 1715: Road 3 is FULL.
+Time 1716: Road 3 is FULL.
+Time 1717: Vehicle 348 entered Road 1.
+Time 1718: Road 3 is FULL.
+Time 1719: Road 2 is FULL.
+Time 1720: Vehicle 350 entered Road 1.
+Time 1720: Vehicle 622 left Road 2.
+Time 1720: Vehicle 971 left Road 2.
+Time 1720: Vehicle 1069 left Road 2.
+Time 1720: Vehicle 832 left Road 2.
+Time 1720: Vehicle 623 left Road 2.
+Time 1721: Road 3 is FULL.
+Time 1722: Vehicle 393 entered Road 1.
+Time 1723: Vehicle 843 entered Road 2.
+Time 1724: Road 3 is FULL.
+Time 1725: Road 3 is FULL.
+Time 1726: Vehicle 859 entered Road 2.
+Time 1727: Vehicle 874 entered Road 2.
+Time 1728: Vehicle 904 entered Road 2.
+Time 1729: Vehicle 1092 entered Road 2.
+Time 1730: Road 3 is FULL.
+Time 1730: Vehicle 1592 left Road 3.
+Time 1730: Vehicle 1176 left Road 3.
+Time 1730: Vehicle 1821 left Road 3.
+Time 1730: Vehicle 1598 left Road 3.
+Time 1730: Vehicle 1362 left Road 3.
+Time 1731: Vehicle 1632 entered Road 3.
+Time 1732: Vehicle 362 entered Road 1.
+Time 1733: Vehicle 1499 entered Road 3.
+Time 1734: Vehicle 1652 entered Road 3.
+Time 1735: Vehicle 1173 entered Road 3.
+Time 1736: Road 2 is FULL.
+Time 1737: Vehicle 1239 entered Road 3.
+Time 1738: Road 3 is FULL.
+Time 1739: Road 3 is FULL.
+Time 1740: Vehicle 148 entered Road 1.
+Time 1740: Vehicle 413 left Road 1.
+Time 1740: Vehicle 54 left Road 1.
+Time 1740: Vehicle 131 left Road 1.
+Time 1740: Vehicle 459 left Road 1.
+Time 1740: Vehicle 395 left Road 1.
+Time 1741: Road 3 is FULL.
+Time 1742: Road 3 is FULL.
+Time 1743: Road 3 is FULL.
+Time 1744: Road 3 is FULL.
+Time 1745: Vehicle 435 entered Road 1.
+Time 1746: Road 2 is FULL.
+Time 1747: Road 2 is FULL.
+Time 1748: Vehicle 187 entered Road 1.
+Time 1749: Vehicle 293 entered Road 1.
+Time 1750: Road 3 is FULL.
+Time 1750: Vehicle 730 left Road 2.
+Time 1750: Vehicle 620 left Road 2.
+Time 1750: Vehicle 1017 left Road 2.
+Time 1750: Vehicle 789 left Road 2.
+Time 1750: Vehicle 852 left Road 2.
+Time 1751: Vehicle 635 entered Road 2.
+Time 1752: Road 3 is FULL.
+Time 1753: Vehicle 1008 entered Road 2.
+Time 1754: Road 3 is FULL.
+Time 1755: Vehicle 161 entered Road 1.
+Time 1756: Vehicle 476 entered Road 1.
+Time 1757: Vehicle 750 entered Road 2.
+Time 1758: Vehicle 995 entered Road 2.
+Time 1759: Vehicle 509 entered Road 2.
+Time 1760: Road 2 is FULL.
+Time 1760: Vehicle 1129 left Road 3.
+Time 1760: Vehicle 1281 left Road 3.
+Time 1760: Vehicle 1260 left Road 3.
+Time 1760: Vehicle 1327 left Road 3.
+Time 1760: Vehicle 1737 left Road 3.
+Time 1761: Vehicle 106 entered Road 1.
+Time 1762: Road 2 is FULL.
+Time 1763: Road 2 is FULL.
+Time 1764: Vehicle 1630 entered Road 3.
+Time 1765: Road 2 is FULL.
+Time 1766: Road 2 is FULL.
+Time 1767: Vehicle 1274 entered Road 3.
+Time 1768: Vehicle 1762 entered Road 3.
+Time 1769: Road 2 is FULL.
+Time 1770: Vehicle 1182 entered Road 3.
+Time 1770: Vehicle 2 left Road 1.
+Time 1770: Vehicle 68 left Road 1.
+Time 1770: Vehicle 230 left Road 1.
+Time 1770: Vehicle 288 left Road 1.
+Time 1770: Vehicle 321 left Road 1.
+Time 1771: Road 2 is FULL.
+Time 1772: Road 2 is FULL.
+Time 1773: Road 2 is FULL.
+Time 1774: Road 2 is FULL.
+Time 1775: Road 2 is FULL.
+Time 1776: Road 2 is FULL.
+Time 1777: Vehicle 1622 entered Road 3.
+Time 1778: Road 2 is FULL.
+Time 1779: Road 2 is FULL.
+Time 1780: Road 3 is FULL.
+Time 1780: Vehicle 955 left Road 2.
+Time 1780: Vehicle 996 left Road 2.
+Time 1780: Vehicle 678 left Road 2.
+Time 1780: Vehicle 520 left Road 2.
+Time 1780: Vehicle 1077 left Road 2.
+Time 1781: Vehicle 156 entered Road 1.
+Time 1782: Vehicle 497 entered Road 2.
+Time 1783: Vehicle 544 entered Road 2.
+Time 1784: Road 3 is FULL.
+Time 1785: Road 3 is FULL.
+Time 1786: Road 3 is FULL.
+Time 1787: Road 3 is FULL.
+Time 1788: Vehicle 141 entered Road 1.
+Time 1789: Vehicle 685 entered Road 2.
+Time 1790: Vehicle 128 entered Road 1.
+Time 1790: Vehicle 1214 left Road 3.
+Time 1790: Vehicle 1132 left Road 3.
+Time 1790: Vehicle 1698 left Road 3.
+Time 1790: Vehicle 1190 left Road 3.
+Time 1790: Vehicle 1399 left Road 3.
+Time 1791: Vehicle 65 entered Road 1.
+Time 1792: Vehicle 1169 entered Road 3.
+Time 1793: Vehicle 1510 entered Road 3.
+Time 1794: Vehicle 837 entered Road 2.
+Time 1795: Vehicle 1660 entered Road 3.
+Time 1796: Vehicle 376 entered Road 1.
+Time 1797: Vehicle 1172 entered Road 3.
+Time 1798: Vehicle 1646 entered Road 3.
+Time 1799: Vehicle 191 entered Road 1.
+Time 1800: Vehicle 47 entered Road 1.
+Time 1800: Vehicle 424 left Road 1.
+Time 1800: Vehicle 475 left Road 1.
+Time 1800: Vehicle 150 left Road 1.
+Time 1800: Vehicle 407 left Road 1.
+Time 1800: Vehicle 274 left Road 1.
+Time 1801: Vehicle 838 entered Road 2.
+Time 1802: Vehicle 490 entered Road 1.
+Time 1803: Road 3 is FULL.
+Time 1804: Road 2 is FULL.
+Time 1805: Road 2 is FULL.
+Time 1806: Road 3 is FULL.
+Time 1807: Road 3 is FULL.
+Time 1808: Road 3 is FULL.
+Time 1809: Vehicle 4 entered Road 1.
+Time 1810: Road 3 is FULL.
+Time 1810: Vehicle 951 left Road 2.
+Time 1810: Vehicle 839 left Road 2.
+Time 1810: Vehicle 747 left Road 2.
+Time 1810: Vehicle 1039 left Road 2.
+Time 1810: Vehicle 895 left Road 2.
+Time 1811: Vehicle 290 entered Road 1.
+Time 1812: Road 3 is FULL.
+Time 1813: Road 3 is FULL.
+Time 1814: Vehicle 7 entered Road 1.
+Time 1815: Vehicle 552 entered Road 2.
+Time 1816: Road 3 is FULL.
+Time 1817: Vehicle 754 entered Road 2.
+Time 1818: Vehicle 530 entered Road 2.
+Time 1819: Road 3 is FULL.
+Time 1820: Road 3 is FULL.
+Time 1820: Vehicle 1681 left Road 3.
+Time 1820: Vehicle 1349 left Road 3.
+Time 1820: Vehicle 1314 left Road 3.
+Time 1820: Vehicle 1284 left Road 3.
+Time 1820: Vehicle 1537 left Road 3.
+Time 1821: Vehicle 1532 entered Road 3.
+Time 1822: Vehicle 1509 entered Road 3.
